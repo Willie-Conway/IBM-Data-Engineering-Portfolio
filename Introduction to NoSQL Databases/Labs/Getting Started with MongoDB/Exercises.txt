@@ -1,0 +1,142 @@
+theia@theiadocker-hirewillieco:/home/project$ mongosh mongodb://root:s5UgNDEO75FrTT2CO4bAvFwC@172.21.109.141:27017
+Current Mongosh Log ID: 68ef1e17641b5125b56b140a
+Connecting to:          mongodb://<credentials>@172.21.109.141:27017/?directConnection=true&appName=mongosh+2.4.2
+Using MongoDB:          4.4.29
+Using Mongosh:          2.4.2
+
+For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
+
+
+To help improve our products, anonymous usage data is collected and sent to MongoDB periodically (https://www.mongodb.com/legal/privacy-policy).
+You can opt-out by running the disableTelemetry() command.
+
+------
+   The server generated these startup warnings when booting
+   2025-10-15T01:49:11.676+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+------
+
+test> db.version()
+4.4.29
+theia@theiadocker-hirewillieco:/home/project$ mongosh mongodb://root:s5UgNDEO75FrTT2CO4bAvFwC@172.21.109.141:27017
+Current Mongosh Log ID: 68ef1e17641b5125b56b140a
+Connecting to:          mongodb://<credentials>@172.21.109.141:27017/?directConnection=true&appName=mongosh+2.4.2
+Using MongoDB:          4.4.29
+Using Mongosh:          2.4.2
+
+For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
+
+
+To help improve our products, anonymous usage data is collected and sent to MongoDB periodically (https://www.mongodb.com/legal/privacy-policy).
+You can opt-out by running the disableTelemetry() command.
+
+------
+   The server generated these startup warnings when booting
+   2025-10-15T01:49:11.676+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+------
+
+test> db.version()
+4.4.29
+test> show dbs
+admin   100.00 KiB
+config   60.00 KiB
+local    72.00 KiB
+test> use training
+switched to db training
+theia@theiadocker-hirewillieco:/home/project$ mongosh mongodb://root:s5UgNDEO75FrTT2CO4bAvFwC@172.21.109.141:27017
+Current Mongosh Log ID: 68ef1e17641b5125b56b140a
+Connecting to:          mongodb://<credentials>@172.21.109.141:27017/?directConnection=true&appName=mongosh+2.4.2
+Using MongoDB:          4.4.29
+Using Mongosh:          2.4.2
+
+For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
+
+
+To help improve our products, anonymous usage data is collected and sent to MongoDB periodically (https://www.mongodb.com/legal/privacy-policy).
+You can opt-out by running the disableTelemetry() command.
+
+------
+   The server generated these startup warnings when booting
+   2025-10-15T01:49:11.676+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+------
+
+test> db.version()
+4.4.29
+test> show dbs
+admin   100.00 KiB
+config   60.00 KiB
+local    72.00 KiB
+test> use training
+switched to db training
+training> db.createCollection("mycollection")
+{ ok: 1 }
+training> show collections
+mycollection
+training> db.mycollection.insert({"color":"white","example":"milk"})
+DeprecationWarning: Collection.insert() is deprecated. Use insertOne, insertMany, or bulkWrite.
+{
+  acknowledged: true,
+  insertedIds: { '0': ObjectId('68ef20c9641b5125b56b140b') }
+}
+training> db.mycollection.insert({"color":"blue","example":"sky"})
+{
+  acknowledged: true,
+  insertedIds: { '0': ObjectId('68ef2117641b5125b56b140c') }
+}
+training> db.mycollection.countDocuments()
+2
+theia@theiadocker-hirewillieco:/home/project$ mongosh mongodb://root:s5UgNDEO75FrTT2CO4bAvFwC@172.21.109.141:27017
+Current Mongosh Log ID: 68ef1e17641b5125b56b140a
+Connecting to:          mongodb://<credentials>@172.21.109.141:27017/?directConnection=true&appName=mongosh+2.4.2
+Using MongoDB:          4.4.29
+Using Mongosh:          2.4.2
+
+For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
+
+
+To help improve our products, anonymous usage data is collected and sent to MongoDB periodically (https://www.mongodb.com/legal/privacy-policy).
+You can opt-out by running the disableTelemetry() command.
+
+------
+   The server generated these startup warnings when booting
+   2025-10-15T01:49:11.676+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+------
+
+test> db.version()
+4.4.29
+test> show dbs
+admin   100.00 KiB
+config   60.00 KiB
+local    72.00 KiB
+test> use training
+switched to db training
+training> db.createCollection("mycollection")
+{ ok: 1 }
+training> show collections
+mycollection
+training> db.mycollection.insert({"color":"white","example":"milk"})
+DeprecationWarning: Collection.insert() is deprecated. Use insertOne, insertMany, or bulkWrite.
+{
+  acknowledged: true,
+  insertedIds: { '0': ObjectId('68ef20c9641b5125b56b140b') }
+}
+training> db.mycollection.insert({"color":"blue","example":"sky"})
+{
+  acknowledged: true,
+  insertedIds: { '0': ObjectId('68ef2117641b5125b56b140c') }
+}
+training> db.mycollection.countDocuments()
+2
+training> db.mycollection.find()
+[
+  {
+    _id: ObjectId('68ef20c9641b5125b56b140b'),
+    color: 'white',
+    example: 'milk'
+  },
+  {
+    _id: ObjectId('68ef2117641b5125b56b140c'),
+    color: 'blue',
+    example: 'sky'
+  }
+]
+training> exit
