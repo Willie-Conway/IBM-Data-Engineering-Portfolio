@@ -1,0 +1,245 @@
+theia@theiadocker-hirewillieco:/home/project$  chmod +x start_cluster_and_explore.sh
+theia@theiadocker-hirewillieco:/home/project$ ./start_cluster_and_explore.sh
+🔍 Using compose directory: /home/project/ooxwv-docker_hadoop
+ℹ️  Using Compose command: docker compose
+🔧 Namenode container not running – starting cluster ...
+WARN[0000] /home/project/ooxwv-docker_hadoop/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion 
+[+] Running 22/28
+ ⠹ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    47.3s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠹ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       47.3s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+ ⠹ namenode [⣿⣿⣿]    702B / 702B    Pulling                                       47.3s 
+   ✔ facffb3a6de3 Download complete                                               19.9s 
+   ✔ c71a6df73788 Download complete                                               20.3s 
+   ✔ 73b8c0ccb707 Download complete                                               20.7s 
+ ⠹ resourcemanager [⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿] 554.2MB / 565.1MB Pulling                       47.3s 
+   ✔ 3192219afd04 Pull complete                                                   15.2s 
+   ⠦ 7127a1d8cced Extracting       157.1MB/159.4MB                                46.1s 
+   ✔ 883a89599900 Download complete                                                0.5s 
+   ✔ 77920a3e82af Download complete                                                1.0s 
+[+] Running 21/28 Download complete                                               41.4s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+ ⠴ namenode [⣿⣿⣿]    702B / 702B    Pulling                                       31.6s 
+   ✔ facffb3a6de3 Download complete                                               19.9s 
+   ✔ c71a6df73788 Download complete                                               20.3s 
+   ✔ 73b8c0ccb707 Download complete                                               20.7s 
+ ⠴ resourcemanager [⣿⣿⣿⣿⣤⣿⣿⣿⣿⣿⣿⣿] 424.4MB / 565.1MB Pulling                       31.6s 
+   ✔ 3192219afd04 Pull complete                                                   15.2s 
+   ⠏ 7127a1d8cced Extracting       99.71MB/159.4MB                                30.4s 
+   ✔ 883a89599900 Download complete                                                0.5s 
+   ✔ 77920a3e82af Download complete                                                1.0s 
+   ⠸ 92329e81aec4 Downloading      220.6MB/359.7MB                                30.4s 
+[+] Running 21/28 Download complete                                                6.9s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+[+] Running 21/28    702B / 702B    Pulling                                       31.6s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+ ⠴ namenode [⣿⣿⣿]    702B / 702B    Pulling                                       31.6s 
+   ✔ facffb3a6de3 Download complete                                               19.9s 
+   ✔ c71a6df73788 Download complete                                               20.3s 
+   ✔ 73b8c0ccb707 Download complete                                               20.7s 
+ ⠴ resourcemanager [⣿⣿⣿⣿⣤⣿⣿⣿⣿⣿⣿⣿] 424.4MB / 565.1MB Pulling                       31.6s 
+   ✔ 3192219afd04 Pull complete                                                   15.2s 
+   ⠏ 7127a1d8cced Extracting       99.71MB/159.4MB                                30.4s 
+[+] Running 21/28 Download complete                                                0.5s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+[+] Running 21/28    702B / 702B    Pulling                                       31.6s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+ ⠴ namenode [⣿⣿⣿]    702B / 702B    Pulling                                       31.6s 
+   ✔ facffb3a6de3 Download complete                                               19.9s 
+   ✔ c71a6df73788 Download complete                                               20.3s 
+   ✔ 73b8c0ccb707 Download complete                                               20.7s 
+ ⠴ resourcemanager [⣿⣿⣿⣿⣤⣿⣿⣿⣿⣿⣿⣿] 424.4MB / 565.1MB Pulling                       31.6s 
+   ✔ 3192219afd04 Pull complete                                                   15.2s 
+   ⠏ 7127a1d8cced Extracting       99.71MB/159.4MB                                30.4s 
+[+] Running 21/28 Download complete                                                0.5s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+[+] Running 21/28    702B / 702B    Pulling                                       31.6s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+ ⠴ namenode [⣿⣿⣿]    702B / 702B    Pulling                                       31.6s 
+   ✔ facffb3a6de3 Download complete                                               19.9s 
+   ✔ c71a6df73788 Download complete                                               20.3s 
+   ✔ 73b8c0ccb707 Download complete                                               20.7s 
+ ⠴ resourcemanager [⣿⣿⣿⣿⣤⣿⣿⣿⣿⣿⣿⣿] 424.4MB / 565.1MB Pulling                       31.6s 
+   ✔ 3192219afd04 Pull complete                                                   15.2s 
+   ⠏ 7127a1d8cced Extracting       99.71MB/159.4MB                                30.4s 
+[+] Running 21/28 Download complete                                                0.5s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+[+] Running 21/28    702B / 702B    Pulling                                       31.6s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+ ⠴ namenode [⣿⣿⣿]    702B / 702B    Pulling                                       31.6s 
+   ✔ facffb3a6de3 Download complete                                               19.9s 
+   ✔ c71a6df73788 Download complete                                               20.3s 
+   ✔ 73b8c0ccb707 Download complete                                               20.7s 
+ ⠴ resourcemanager [⣿⣿⣿⣿⣤⣿⣿⣿⣿⣿⣿⣿] 424.4MB / 565.1MB Pulling                       31.6s 
+   ✔ 3192219afd04 Pull complete                                                   15.2s 
+   ⠏ 7127a1d8cced Extracting       99.71MB/159.4MB                                30.4s 
+[+] Running 21/28 Download complete                                                0.5s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+[+] Running 21/28    702B / 702B    Pulling                                       31.6s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+ ⠴ namenode [⣿⣿⣿]    702B / 702B    Pulling                                       31.6s 
+   ✔ facffb3a6de3 Download complete                                               19.9s 
+   ✔ c71a6df73788 Download complete                                               20.3s 
+   ✔ 73b8c0ccb707 Download complete                                               20.7s 
+ ⠴ resourcemanager [⣿⣿⣿⣿⣤⣿⣿⣿⣿⣿⣿⣿] 424.4MB / 565.1MB Pulling                       31.6s 
+   ✔ 3192219afd04 Pull complete                                                   15.2s 
+   ⠏ 7127a1d8cced Extracting       99.71MB/159.4MB                                30.4s 
+[+] Running 21/28 Download complete                                                0.5s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+[+] Running 21/28    702B / 702B    Pulling                                       31.6s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+ ⠴ namenode [⣿⣿⣿]    702B / 702B    Pulling                                       31.6s 
+   ✔ facffb3a6de3 Download complete                                               19.9s 
+   ✔ c71a6df73788 Download complete                                               20.3s 
+   ✔ 73b8c0ccb707 Download complete                                               20.7s 
+ ⠴ resourcemanager [⣿⣿⣿⣿⣤⣿⣿⣿⣿⣿⣿⣿] 424.4MB / 565.1MB Pulling                       31.6s 
+   ✔ 3192219afd04 Pull complete                                                   15.2s 
+   ⠏ 7127a1d8cced Extracting       99.71MB/159.4MB                                30.4s 
+[+] Running 21/28 Download complete                                                0.5s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+[+] Running 21/28    702B / 702B    Pulling                                       31.6s 
+ ⠴ nodemanager1 [⣿⣿]    164B / 164B    Pulling                                    31.6s 
+   ✔ beaa171f32f6 Download complete                                               13.4s 
+   ✔ 50dda04de8a9 Download complete                                               14.4s 
+ ⠴ datanode [⣿⣿⣿]    679B / 679B    Pulling                                       31.6s 
+   ✔ 3ca2ec07878c Download complete                                               17.7s 
+   ✔ 26c2dd45430e Download complete                                               18.7s 
+   ✔ 13c9c87a46cb Download complete                                               19.5s 
+ ⠴ namenode [⣿⣿⣿]    702B / 702B    Pulling                                       31.6s 
+   ✔ facffb3a6de3 Download complete                                               19.9s 
+   ✔ c71a6df73788 Download complete                                               20.3s 
+   ✔ 73b8c0ccb707 Download complete                                               20.7s 
+ ⠴ resourcemanager [⣿⣿⣿⣿⣤⣿⣿⣿⣿⣿⣿⣿] 424.4MB / 565.1MB Pulling                       31.6s 
+   ✔ 3192219afd04 Pull complete                                                   15.2s 
+   ⠏ 7127a1d8cced Extracting       99.71MB/159.4MB                                30.4s 
+[+] Running 28/28 Download complete                                                0.5s 
+ ✔ nodemanager1 Pulled                                                            84.2s 
+   ✔ beaa171f32f6 Pull complete                                                   82.0s 
+   ✔ 50dda04de8a9 Pull complete                                                   82.3s 
+ ✔ datanode Pulled                                                                84.3s 
+   ✔ 3ca2ec07878c Pull complete                                                   81.8s 
+   ✔ 26c2dd45430e Pull complete                                                   82.0s 
+   ✔ 13c9c87a46cb Pull complete                                                   82.5s 
+ ✔ namenode Pulled                                                                84.4s 
+   ✔ facffb3a6de3 Pull complete                                                   81.7s 
+   ✔ c71a6df73788 Pull complete                                                   82.0s 
+   ✔ 73b8c0ccb707 Pull complete                                                   82.4s 
+ ✔ resourcemanager Pulled                                                         83.8s 
+   ✔ 3192219afd04 Pull complete                                                   15.2s 
+   ✔ 7127a1d8cced Pull complete                                                   48.6s 
+   ✔ 883a89599900 Pull complete                                                   48.8s 
+   ✔ 77920a3e82af Pull complete                                                   49.0s 
+   ✔ 92329e81aec4 Pull complete                                                   71.3s 
+   ✔ f373218fec59 Pull complete                                                   77.3s 
+   ✔ aa53513fe997 Pull complete                                                   80.4s 
+   ✔ 8b1800105b98 Pull complete                                                   80.9s 
+   ✔ c3a84a3e49c8 Pull complete                                                   81.4s 
+   ✔ a65640a64a76 Pull complete                                                   82.0s 
+   ✔ b0d764123f3e Pull complete                                                   82.2s 
+   ✔ b04394ddb35d Pull complete                                                   82.4s 
+ ✔ historyserver Pulled                                                           84.4s 
+   ✔ b2dc88cebe05 Pull complete                                                   81.8s 
+   ✔ 13b908760168 Pull complete                                                   82.1s 
+   ✔ 0991d53828a1 Pull complete                                                   82.6s 
+[+] Running 9/968 Download complete                                               16.0s 
+ ✔ Network ooxwv-docker_hadoop_default                Created                      0.1s 
+ ✔ Volume "ooxwv-docker_hadoop_hadoop_namenode"       Created                      0.0s 
+ ✔ Volume "ooxwv-docker_hadoop_hadoop_datanode"       Created                      0.0s 
+ ✔ Volume "ooxwv-docker_hadoop_hadoop_historyserver"  Created                      0.0s 
+ ✔ Container namenode                                 Star...                     14.6s 
+ ✔ Container nodemanager                              S...                        14.0s 
+ ✔ Container datanode                                 Star...                     13.9s 
+ ✔ Container resourcemanager                          Started                     14.1s 
+ ✔ Container historyserver                            Started                     14.1s 
+
+📄 Hadoop XML config files in namenode:/opt/hadoop-3.2.1/etc/hadoop:
+ls: cannot access '/opt/hadoop-3.2.1/etc/hadoop/*.xml': No such file or directory
+theia@theiadocker-hirewillieco:/home/project$ 

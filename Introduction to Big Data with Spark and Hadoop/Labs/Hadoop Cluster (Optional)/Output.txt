@@ -1,0 +1,20 @@
+theia@theiadocker-hirewillieco:/home/project$ chmod +x setup_cluster_hadoop.sh
+theia@theiadocker-hirewillieco:/home/project$ ./setup_cluster_hadoop.sh
+🚀 Starting Cluster Node Setup for Dockerized Hadoop...
+📥 Cloning Hadoop cluster repo...
+Cloning into 'ooxwv-docker_hadoop'...
+remote: Enumerating objects: 50, done.
+remote: Counting objects: 100% (50/50), done.
+remote: Compressing objects: 100% (45/45), done.
+remote: Total 50 (delta 7), reused 38 (delta 3), pack-reused 0 (from 0)
+Receiving objects: 100% (50/50), 47.63 KiB | 9.52 MiB/s, done.
+Resolving deltas: 100% (7/7), done.
+🐳 Starting Hadoop cluster using docker-compose...
+./setup_cluster_hadoop.sh: line 14: docker-compose: command not found
+📦 Running containers:
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+🔗 Connecting to NameNode container...
+➡️ Run the following command manually to enter the NameNode shell:
+    docker exec -it namenode /bin/bash
+✅ Cluster setup complete.
+theia@theiadocker-hirewillieco:/home/project$ 
