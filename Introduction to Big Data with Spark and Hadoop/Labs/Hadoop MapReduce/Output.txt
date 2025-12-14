@@ -1,0 +1,884 @@
+hadoop-3.3.6/share/hadoop/common/jdiff/Apache_Hadoop_Common_2.6.0.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop_0.19.2.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/Apache_Hadoop_Common_2.7.2.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop_0.19.0.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/Apache_Hadoop_Common_2.8.2.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/Apache_Hadoop_Common_3.3.5.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/Apache_Hadoop_Common_2.10.0.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/Apache_Hadoop_Common_2.8.3.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/Apache_Hadoop_Common_3.2.2.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/Null.java
+hadoop-3.3.6/share/hadoop/common/jdiff/Apache_Hadoop_Common_3.2.4.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop_0.18.1.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop_0.20.0.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/Apache_Hadoop_Common_3.3.4.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop_0.17.0.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop-core_0.21.0.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop-core_0.20.0.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop_0.20.1.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop-core_0.22.0.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop_0.18.2.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop_0.18.3.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop_0.19.1.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/Apache_Hadoop_Common_2.8.0.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/hadoop_0.20.2.xml
+hadoop-3.3.6/share/hadoop/common/jdiff/Apache_Hadoop_Common_3.3.3.xml
+hadoop-3.3.6/share/hadoop/common/hadoop-registry-3.3.6.jar
+hadoop-3.3.6/share/hadoop/common/hadoop-kms-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-server-sharedcachemanager-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-common-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-server-tests-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-server-nodemanager-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-server-nodemanager-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-common-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-services-core-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-services-core-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-client-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-services-api-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-applications-unmanaged-am-launcher-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-server-tests-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-client-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-server-web-proxy-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-api-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-server-applicationhistoryservice-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-server-resourcemanager-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-server-common-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-services-api-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-server-applicationhistoryservice-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-applications-distributedshell-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-server-common-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-server-resourcemanager-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-applications-unmanaged-am-launcher-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-api-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-server-web-proxy-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/sources/hadoop-yarn-applications-distributedshell-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-server-applicationhistoryservice-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-registry-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-applications-catalog-webapp-3.3.6.war
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-applications-mawo-core-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/yarn-service-examples/
+hadoop-3.3.6/share/hadoop/yarn/yarn-service-examples/httpd/
+hadoop-3.3.6/share/hadoop/yarn/yarn-service-examples/httpd/httpd-proxy.conf
+hadoop-3.3.6/share/hadoop/yarn/yarn-service-examples/httpd/httpd.json
+hadoop-3.3.6/share/hadoop/yarn/yarn-service-examples/httpd-no-dns/
+hadoop-3.3.6/share/hadoop/yarn/yarn-service-examples/httpd-no-dns/httpd-no-dns.json
+hadoop-3.3.6/share/hadoop/yarn/yarn-service-examples/httpd-no-dns/httpd-proxy-no-dns.conf
+hadoop-3.3.6/share/hadoop/yarn/yarn-service-examples/appcatalog/
+hadoop-3.3.6/share/hadoop/yarn/yarn-service-examples/appcatalog/appcatalog.json
+hadoop-3.3.6/share/hadoop/yarn/yarn-service-examples/sleeper/
+hadoop-3.3.6/share/hadoop/yarn/yarn-service-examples/sleeper/sleeper.json
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-client-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-server-nodemanager-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/test/
+hadoop-3.3.6/share/hadoop/yarn/test/hadoop-yarn-server-tests-3.3.6-tests.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-server-resourcemanager-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/
+hadoop-3.3.6/share/hadoop/yarn/csi/hadoop-yarn-csi-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/grpc-protobuf-lite-1.26.0.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/grpc-stub-1.26.0.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/grpc-core-1.26.0.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/javax.annotation-api-1.3.2.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/grpc-api-1.26.0.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/opencensus-api-0.24.0.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/error_prone_annotations-2.3.3.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/grpc-protobuf-1.26.0.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/perfmark-api-0.19.0.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/proto-google-common-protos-1.12.0.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/grpc-context-1.26.0.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/opencensus-contrib-grpc-metrics-0.24.0.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/protobuf-java-3.7.1.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/annotations-4.1.1.4.jar
+hadoop-3.3.6/share/hadoop/yarn/csi/lib/grpc-netty-1.26.0.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-server-timeline-pluginstorage-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/webapps/
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/config/
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/config/configs.env
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/META-INF/
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/index.html
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/fonts/
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/fonts/glyphicons-halflings-regular.woff2
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/fonts/glyphicons-halflings-regular.ttf
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/fonts/glyphicons-halflings-regular.woff
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/fonts/glyphicons-halflings-regular.svg
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/fonts/glyphicons-halflings-regular.eot
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/crossdomain.xml
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/WEB-INF/
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/WEB-INF/web.xml
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/WEB-INF/classes/
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/WEB-INF/classes/META-INF/
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/WEB-INF/classes/META-INF/LICENSE.txt
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/WEB-INF/classes/META-INF/NOTICE.txt
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/yarn-ui.js
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/ember-data.js.map
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/bootstrap.css.map
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/vendor.css
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/yarn-ui.css
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/vendor.js
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/ui-icons_cc0000_256x240.png
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/hadoop_logo.png
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/ui-bg_flat_0_aaaaaa_40x100.png
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/ui-icons_555555_256x240.png
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/ui-icons_777620_256x240.png
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/spinner.gif
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/ui-icons_444444_256x240.png
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/ui-icons_ffffff_256x240.png
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/datatables/
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/datatables/sort_desc.png
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/datatables/sort_asc.png
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/datatables/favicon.ico
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/datatables/Sorting icons.psd
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/datatables/sort_desc_disabled.png
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/datatables/sort_both.png
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/datatables/sort_asc_disabled.png
+hadoop-3.3.6/share/hadoop/yarn/webapps/ui2/assets/images/ui-icons_777777_256x240.png
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-server-router-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/
+hadoop-3.3.6/share/hadoop/yarn/lib/guice-servlet-4.0.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/java-util-1.9.0.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/objenesis-2.6.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/jakarta.xml.bind-api-2.3.2.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/fst-2.50.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/websocket-client-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/jersey-client-1.19.4.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/bcpkix-jdk15on-1.68.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/jackson-jaxrs-json-provider-2.12.7.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/asm-tree-9.4.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/javax.inject-1.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/mssql-jdbc-6.2.1.jre7.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/snakeyaml-2.0.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/javax-websocket-server-impl-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/websocket-api-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/asm-commons-9.4.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/bcprov-jdk15on-1.68.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/geronimo-jcache_1.0_spec-1.0-alpha-1.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/jackson-jaxrs-base-2.12.7.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/ehcache-3.3.1.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/javax-websocket-client-impl-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/jline-3.9.0.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/websocket-server-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/javax.websocket-api-1.0.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/javax.websocket-client-api-1.0.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/jetty-plus-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/jetty-client-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/jetty-annotations-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/websocket-servlet-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/swagger-annotations-1.5.4.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/json-io-2.5.1.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/jetty-jndi-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/aopalliance-1.0.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/websocket-common-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/jersey-guice-1.19.4.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/jna-5.2.0.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/jackson-module-jaxb-annotations-2.12.7.jar
+hadoop-3.3.6/share/hadoop/yarn/lib/guice-4.0.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-server-tests-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/hadoop-yarn-server-timelineservice-hbase-client-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/hadoop-yarn-server-timelineservice-hbase-coprocessor-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/hadoop-yarn-server-timelineservice-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/test/
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/test/hadoop-yarn-server-timelineservice-hbase-tests-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/hadoop-yarn-server-timelineservice-hbase-common-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/metrics-core-2.2.0.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/azure-cosmosdb-commons-2.4.5.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/hbase-common-1.4.8.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/rxjava-string-1.1.1.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/java-uuid-generator-3.1.4.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/commons-csv-1.9.0.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/htrace-core-3.1.0-incubating.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/hbase-client-1.4.8.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/commons-digester-1.8.1.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/joni-2.1.2.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/commons-lang-2.6.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/azure-cosmosdb-gateway-2.4.5.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/commons-validator-1.6.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/azure-cosmosdb-direct-2.4.5.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/commons-collections4-4.2.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/hbase-protocol-1.4.8.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/rxnetty-0.4.20.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/hbase-annotations-1.4.8.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/jcodings-1.0.13.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/azure-cosmosdb-2.4.5.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/rxjava-extras-0.8.0.17.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/lib/rxjava-1.3.8.jar
+hadoop-3.3.6/share/hadoop/yarn/timelineservice/hadoop-yarn-server-timelineservice-documentstore-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-applications-distributedshell-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-services-core-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-server-web-proxy-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-services-api-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-common-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-server-common-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-applications-unmanaged-am-launcher-3.3.6.jar
+hadoop-3.3.6/share/hadoop/yarn/hadoop-yarn-api-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/
+hadoop-3.3.6/share/hadoop/tools/sources/
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-dynamometer-workload-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-archive-logs-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-datajoin-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-datajoin-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-dynamometer-blockgen-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-dynamometer-infra-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-archives-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-extras-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-rumen-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-distcp-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-distcp-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-gridmix-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-rumen-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-sls-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-resourceestimator-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-streaming-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-dynamometer-infra-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-dynamometer-workload-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-extras-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-resourceestimator-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-archives-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-streaming-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-sls-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-archive-logs-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-dynamometer-blockgen-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sources/hadoop-gridmix-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/tools/sls/
+hadoop-3.3.6/share/hadoop/tools/sls/sample-data/
+hadoop-3.3.6/share/hadoop/tools/sls/sample-data/2jobs2min-rumen-jh.json
+hadoop-3.3.6/share/hadoop/tools/sls/sample-conf/
+hadoop-3.3.6/share/hadoop/tools/sls/sample-conf/fair-scheduler.xml
+hadoop-3.3.6/share/hadoop/tools/sls/sample-conf/yarn-site.xml
+hadoop-3.3.6/share/hadoop/tools/sls/sample-conf/capacity-scheduler.xml
+hadoop-3.3.6/share/hadoop/tools/sls/sample-conf/log4j.properties
+hadoop-3.3.6/share/hadoop/tools/sls/sample-conf/sls-runner.xml
+hadoop-3.3.6/share/hadoop/tools/sls/html/
+hadoop-3.3.6/share/hadoop/tools/sls/html/simulate.info.html.template
+hadoop-3.3.6/share/hadoop/tools/sls/html/simulate.html.template
+hadoop-3.3.6/share/hadoop/tools/sls/html/showSimulationTrace.html
+hadoop-3.3.6/share/hadoop/tools/sls/html/js/
+hadoop-3.3.6/share/hadoop/tools/sls/html/js/thirdparty/
+hadoop-3.3.6/share/hadoop/tools/sls/html/js/thirdparty/bootstrap.min.js
+hadoop-3.3.6/share/hadoop/tools/sls/html/js/thirdparty/d3.v3.js
+hadoop-3.3.6/share/hadoop/tools/sls/html/js/thirdparty/jquery.js
+hadoop-3.3.6/share/hadoop/tools/sls/html/track.html.template
+hadoop-3.3.6/share/hadoop/tools/sls/html/css/
+hadoop-3.3.6/share/hadoop/tools/sls/html/css/bootstrap-responsive.min.css
+hadoop-3.3.6/share/hadoop/tools/sls/html/css/bootstrap.min.css
+hadoop-3.3.6/share/hadoop/tools/sls/bin/
+hadoop-3.3.6/share/hadoop/tools/sls/bin/slsrun.sh
+hadoop-3.3.6/share/hadoop/tools/sls/bin/rumen2sls.sh
+hadoop-3.3.6/share/hadoop/tools/lib/
+hadoop-3.3.6/share/hadoop/tools/lib/aws-java-sdk-bundle-1.12.367.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-extras-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/opentracing-util-0.33.0.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-client-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-dynamometer-blockgen-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/junit-4.13.2.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-dynamometer-infra-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/aliyun-java-sdk-core-4.5.10.jar
+hadoop-3.3.6/share/hadoop/tools/lib/org.jacoco.agent-0.8.5-runtime.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-aliyun-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/opentracing-noop-0.33.0.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-sls-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-azure-datalake-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/zstd-jni-1.4.9-1.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-aws-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-archive-logs-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/azure-storage-7.0.1.jar
+hadoop-3.3.6/share/hadoop/tools/lib/ojalgo-43.0.jar
+hadoop-3.3.6/share/hadoop/tools/lib/opentracing-api-0.33.0.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-streaming-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/aliyun-java-sdk-kms-2.11.0.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-resourceestimator-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/aliyun-java-sdk-ram-3.1.0.jar
+hadoop-3.3.6/share/hadoop/tools/lib/jdk.tools-1.8.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-datajoin-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/azure-data-lake-store-sdk-2.3.9.jar
+hadoop-3.3.6/share/hadoop/tools/lib/aliyun-sdk-oss-3.13.0.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-kafka-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/ini4j-0.5.4.jar
+hadoop-3.3.6/share/hadoop/tools/lib/lz4-java-1.7.1.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hamcrest-core-1.3.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-azure-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/jdom2-2.0.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-archives-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-distcp-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/azure-keyvault-core-1.0.0.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-minicluster-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-gridmix-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-dynamometer-workload-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-rumen-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/lib/wildfly-openssl-1.1.3.Final.jar
+hadoop-3.3.6/share/hadoop/tools/lib/kafka-clients-2.8.2.jar
+hadoop-3.3.6/share/hadoop/tools/lib/hadoop-fs2img-3.3.6.jar
+hadoop-3.3.6/share/hadoop/tools/dynamometer/
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-blockgen/
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-blockgen/bin/
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-blockgen/bin/generate-block-lists.sh
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-infra/
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-infra/bin/
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-infra/bin/parse-metrics.sh
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-infra/bin/upload-fsimage.sh
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-infra/bin/start-dynamometer-cluster.sh
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-infra/bin/create-slim-hadoop-tar.sh
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-workload/
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-workload/bin/
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-workload/bin/start-workload.sh
+hadoop-3.3.6/share/hadoop/tools/dynamometer/dynamometer-workload/bin/parse-start-timestamp.sh
+hadoop-3.3.6/share/hadoop/tools/resourceestimator/
+hadoop-3.3.6/share/hadoop/tools/resourceestimator/data/
+hadoop-3.3.6/share/hadoop/tools/resourceestimator/data/resourceEstimatorService.txt
+hadoop-3.3.6/share/hadoop/tools/resourceestimator/conf/
+hadoop-3.3.6/share/hadoop/tools/resourceestimator/conf/resourceestimator-config.xml
+hadoop-3.3.6/share/hadoop/tools/resourceestimator/bin/
+hadoop-3.3.6/share/hadoop/tools/resourceestimator/bin/stop-estimator.cmd
+hadoop-3.3.6/share/hadoop/tools/resourceestimator/bin/start-estimator.cmd
+hadoop-3.3.6/share/hadoop/tools/resourceestimator/bin/stop-estimator.sh
+hadoop-3.3.6/share/hadoop/tools/resourceestimator/bin/estimator.sh
+hadoop-3.3.6/share/hadoop/tools/resourceestimator/bin/start-estimator.sh
+hadoop-3.3.6/share/hadoop/tools/resourceestimator/bin/estimator.cmd
+hadoop-3.3.6/share/hadoop/client/
+hadoop-3.3.6/share/hadoop/client/hadoop-client-api-3.3.6.jar
+hadoop-3.3.6/share/hadoop/client/hadoop-client-minicluster-3.3.6.jar
+hadoop-3.3.6/share/hadoop/client/hadoop-client-runtime-3.3.6.jar
+hadoop-3.3.6/share/hadoop/mapreduce/
+hadoop-3.3.6/share/hadoop/mapreduce/sources/
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-common-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-core-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-core-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-shuffle-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-common-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-jobclient-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-app-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-nativetask-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-examples-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-jobclient-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-shuffle-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-nativetask-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-examples-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-plugins-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-plugins-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/sources/hadoop-mapreduce-client-app-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-app-3.3.6.jar
+hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-uploader-3.3.6.jar
+hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.6.jar
+hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-common-3.3.6.jar
+hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-nativetask-3.3.6.jar
+hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.6.jar
+hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-3.3.6.jar
+hadoop-3.3.6/share/hadoop/mapreduce/lib-examples/
+hadoop-3.3.6/share/hadoop/mapreduce/lib-examples/hsqldb-2.7.1-jdk8.jar
+hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.3.6-tests.jar
+hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-3.3.6.jar
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Common_3.3.4.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_2.8.0.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Common_3.3.5.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_2.10.0.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_3.3.4.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_3.1.2.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_3.3.3.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_3.3.5.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_2.8.2.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Common_3.3.3.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Common_3.1.0.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_2.8.0.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_3.2.2.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Common_2.6.0.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_3.1.0.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Null.java
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_2.7.2.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_3.3.5.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Common_2.10.0.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_2.8.3.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Common_2.8.0.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_2.8.3.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_3.1.0.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Common_3.2.4.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_3.2.4.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_3.2.4.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_3.3.3.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_3.2.2.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_2.8.2.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_2.7.2.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_2.6.0.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_3.1.2.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_2.6.0.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Core_2.10.0.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Common_2.8.3.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Common_2.7.2.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_JobClient_3.3.4.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Common_2.8.2.xml
+hadoop-3.3.6/share/hadoop/mapreduce/jdiff/Apache_Hadoop_MapReduce_Common_3.2.2.xml
+hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.3.6.jar
+hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-3.3.6.jar
+hadoop-3.3.6/share/hadoop/hdfs/
+hadoop-3.3.6/share/hadoop/hdfs/sources/
+hadoop-3.3.6/share/hadoop/hdfs/sources/hadoop-hdfs-native-client-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/hdfs/sources/hadoop-hdfs-rbf-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/hdfs/sources/hadoop-hdfs-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/hdfs/sources/hadoop-hdfs-client-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/hdfs/sources/hadoop-hdfs-rbf-3.3.6-test-sources.jar
+hadoop-3.3.6/share/hadoop/hdfs/sources/hadoop-hdfs-client-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/hdfs/sources/hadoop-hdfs-native-client-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/hdfs/sources/hadoop-hdfs-3.3.6-sources.jar
+hadoop-3.3.6/share/hadoop/hdfs/hadoop-hdfs-rbf-3.3.6-tests.jar
+hadoop-3.3.6/share/hadoop/hdfs/hadoop-hdfs-native-client-3.3.6-tests.jar
+hadoop-3.3.6/share/hadoop/hdfs/hadoop-hdfs-3.3.6-tests.jar
+hadoop-3.3.6/share/hadoop/hdfs/hadoop-hdfs-native-client-3.3.6.jar
+hadoop-3.3.6/share/hadoop/hdfs/webapps/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/secondary/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/secondary/index.html
+hadoop-3.3.6/share/hadoop/hdfs/webapps/secondary/status.html
+hadoop-3.3.6/share/hadoop/hdfs/webapps/secondary/robots.txt
+hadoop-3.3.6/share/hadoop/hdfs/webapps/secondary/WEB-INF/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/secondary/WEB-INF/web.xml
+hadoop-3.3.6/share/hadoop/hdfs/webapps/secondary/snn.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/nfs3/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/nfs3/WEB-INF/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/nfs3/WEB-INF/web.xml
+hadoop-3.3.6/share/hadoop/hdfs/webapps/journal/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/journal/jn.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/journal/index.html
+hadoop-3.3.6/share/hadoop/hdfs/webapps/journal/robots.txt
+hadoop-3.3.6/share/hadoop/hdfs/webapps/journal/journalnode.html
+hadoop-3.3.6/share/hadoop/hdfs/webapps/journal/WEB-INF/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/journal/WEB-INF/web.xml
+hadoop-3.3.6/share/hadoop/hdfs/webapps/datanode/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/datanode/dn.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/datanode/index.html
+hadoop-3.3.6/share/hadoop/hdfs/webapps/datanode/robots.txt
+hadoop-3.3.6/share/hadoop/hdfs/webapps/datanode/datanode.html
+hadoop-3.3.6/share/hadoop/hdfs/webapps/datanode/WEB-INF/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/datanode/WEB-INF/web.xml
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/jquery.dataTables.min.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/hadoop.css.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/rest-csrf.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/dataTables.bootstrap.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/jquery-3.6.0.min.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/json-bignum.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/dust-full-2.0.0.min.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/moment.min.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/hadoop.css
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/dust-helpers-1.1.1.min.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/json-bignum.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/dataTables.bootstrap.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/dfs-dust.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/jquery.dataTables.min.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/moment.min.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/dfs-dust.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/dataTables.bootstrap.css
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/js/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/js/bootstrap.min.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/js/bootstrap.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/js/bootstrap.min.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/js/bootstrap.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/js/bootstrap-editable.min.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/js/npm.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/js/bootstrap-editable.min.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/js/npm.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap.css
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap-theme.css
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap.css.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap.min.css.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap-theme.min.css
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap-theme.min.css.map
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap-theme.min.css.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap-theme.css.map
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap.css.map
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap-editable.css.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap.min.css
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap-theme.css.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap-editable.css
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/css/bootstrap.min.css.map
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/fonts/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.woff2
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.ttf
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.woff
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.svg
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/bootstrap-3.4.1/fonts/glyphicons-halflings-regular.eot
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/d3-v4.1.1.min.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/rest-csrf.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/dataTables.bootstrap.css.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/dust-full-2.0.0.min.js.gz
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/dust-helpers-1.1.1.min.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/jquery-3.6.0.min.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/d3-v4.1.1.min.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/static/rbf.css
+hadoop-3.3.6/share/hadoop/hdfs/webapps/router/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/router/federationhealth.html
+hadoop-3.3.6/share/hadoop/hdfs/webapps/router/explorer.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/router/explorer.html
+hadoop-3.3.6/share/hadoop/hdfs/webapps/router/index.html
+hadoop-3.3.6/share/hadoop/hdfs/webapps/router/robots.txt
+hadoop-3.3.6/share/hadoop/hdfs/webapps/router/federationhealth.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/router/WEB-INF/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/router/WEB-INF/web.xml
+hadoop-3.3.6/share/hadoop/hdfs/webapps/hdfs/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/hdfs/explorer.js
+hadoop-3.3.6/share/hadoop/hdfs/webapps/hdfs/explorer.html
+hadoop-3.3.6/share/hadoop/hdfs/webapps/hdfs/dfshealth.html
+hadoop-3.3.6/share/hadoop/hdfs/webapps/hdfs/index.html
+hadoop-3.3.6/share/hadoop/hdfs/webapps/hdfs/robots.txt
+hadoop-3.3.6/share/hadoop/hdfs/webapps/hdfs/WEB-INF/
+hadoop-3.3.6/share/hadoop/hdfs/webapps/hdfs/WEB-INF/web.xml
+hadoop-3.3.6/share/hadoop/hdfs/webapps/hdfs/dfshealth.js
+hadoop-3.3.6/share/hadoop/hdfs/lib/
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-resolver-dns-native-macos-4.1.89.Final-osx-aarch_64.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-codec-socks-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerb-identity-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerby-asn1-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/HikariCP-java7-2.4.12.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-math3-3.1.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jetty-xml-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerb-crypto-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-codec-xml-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-transport-sctp-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-collections-3.2.2.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-codec-1.15.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jackson-mapper-asl-1.9.13.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/reload4j-1.2.22.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jersey-server-1.19.4.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jsch-0.1.55.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerby-util-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-io-2.8.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kotlin-stdlib-1.4.10.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/token-provider-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/stax2-api-4.2.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-codec-dns-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/avro-1.7.7.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-text-1.10.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-transport-native-kqueue-4.1.89.Final-osx-aarch_64.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/hadoop-auth-3.3.6.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerby-config-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/j2objc-annotations-1.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-lang3-3.12.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jetty-server-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jersey-servlet-1.19.4.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerb-common-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/hadoop-shaded-protobuf_3_7-1.1.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/guava-27.0-jre.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-transport-rxtx-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jersey-core-1.19.4.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-logging-1.1.3.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/curator-recipes-5.2.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-resolver-dns-classes-macos-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-handler-ssl-ocsp-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/okio-2.8.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-transport-native-epoll-4.1.89.Final-linux-aarch_64.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/curator-framework-5.2.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-codec-http-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-codec-http2-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-codec-haproxy-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-transport-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/checker-qual-2.5.2.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jsr305-3.0.2.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerb-server-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jetty-util-ajax-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/javax.servlet-api-3.1.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/json-simple-1.1.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jaxb-impl-2.2.3-1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerby-pkix-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerb-client-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-handler-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/zookeeper-3.6.3.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/hadoop-shaded-guava-1.1.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-beanutils-1.9.4.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jetty-util-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-configuration2-2.8.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jersey-json-1.20.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-transport-udt-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/audience-annotations-0.5.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-compress-1.21.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-codec-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-codec-memcache-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jaxb-api-2.2.11.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-cli-1.2.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jettison-1.5.4.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-codec-smtp-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-transport-native-epoll-4.1.89.Final-linux-x86_64.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jetty-http-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-common-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/httpcore-4.4.13.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/failureaccess-1.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jcip-annotations-1.0-1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jakarta.activation-api-1.2.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-codec-stomp-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-all-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/protobuf-java-2.5.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/metrics-core-3.2.4.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-transport-native-unix-common-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-resolver-dns-native-macos-4.1.89.Final-osx-x86_64.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jackson-core-2.12.7.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jsr311-api-1.1.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jetty-servlet-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/dnsjava-2.1.7.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/zookeeper-jute-3.6.3.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-codec-redis-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jetty-webapp-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerb-util-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jackson-annotations-2.12.7.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/hadoop-annotations-3.3.6.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jackson-databind-2.12.7.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/animal-sniffer-annotations-1.17.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-handler-proxy-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/paranamer-2.3.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerb-core-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerb-simplekdc-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-3.10.6.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/gson-2.9.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/leveldbjni-all-1.8.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerb-admin-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jetty-security-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-transport-native-kqueue-4.1.89.Final-osx-x86_64.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/re2j-1.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/httpclient-4.5.13.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/curator-client-5.2.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-transport-classes-epoll-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-resolver-dns-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-resolver-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jetty-io-9.4.51.v20230217.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/okhttp-4.9.3.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/commons-net-3.9.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/snappy-java-1.1.8.2.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/jackson-core-asl-1.9.13.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/woodstox-core-5.4.0.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-transport-classes-kqueue-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kerby-xdr-1.0.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-codec-mqtt-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/nimbus-jose-jwt-9.8.1.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/netty-buffer-4.1.89.Final.jar
+hadoop-3.3.6/share/hadoop/hdfs/lib/kotlin-stdlib-common-1.4.10.jar
+hadoop-3.3.6/share/hadoop/hdfs/hadoop-hdfs-client-3.3.6.jar
+hadoop-3.3.6/share/hadoop/hdfs/hadoop-hdfs-nfs-3.3.6.jar
+hadoop-3.3.6/share/hadoop/hdfs/hadoop-hdfs-rbf-3.3.6.jar
+hadoop-3.3.6/share/hadoop/hdfs/hadoop-hdfs-3.3.6.jar
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_2.6.0.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_2.7.2.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.0.0-alpha3.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.3.2.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.3.4.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.1.2.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.0.0.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.3.1.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.2.2.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.2.3.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_2.8.2.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.3.3.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Null.java
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_2.8.3.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.3.5.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_2.8.0.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.0.3.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/hadoop-hdfs_0.22.0.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_2.9.1.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.1.1.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/hadoop-hdfs_0.20.0.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.0.0-alpha4.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.2.0.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_2.9.2.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.0.0-alpha2.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.0.2.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_2.10.0.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.1.0.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.0.1.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.2.1.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.2.4.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/hadoop-hdfs_0.21.0.xml
+hadoop-3.3.6/share/hadoop/hdfs/jdiff/Apache_Hadoop_HDFS_3.1.3.xml
+hadoop-3.3.6/share/hadoop/hdfs/hadoop-hdfs-client-3.3.6-tests.jar
+hadoop-3.3.6/share/hadoop/hdfs/hadoop-hdfs-httpfs-3.3.6.jar
+Verifying Hadoop command...
+Hadoop 3.3.6
+Source code repository https://github.com/apache/hadoop.git -r 1be78238728da9266a4f88195058f08fd012bf9c
+Compiled by ubuntu on 2023-06-18T08:22Z
+Compiled on platform linux-x86_64
+Compiled with protoc 3.7.1
+From source with checksum 5652179ad55f76cb287d9c633bb53bbd
+This command was run using /home/project/hadoop-3.3.6/share/hadoop/common/hadoop-common-3.3.6.jar
+Downloading input text file...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    47  100    47    0     0    268      0 --:--:-- --:--:-- --:--:--   270
+Running WordCount MapReduce...
+2025-07-13 17:10:10,536 INFO impl.MetricsConfig: Loaded properties from hadoop-metrics2.properties
+2025-07-13 17:10:10,710 INFO impl.MetricsSystemImpl: Scheduled Metric snapshot period at 10 second(s).
+2025-07-13 17:10:10,710 INFO impl.MetricsSystemImpl: JobTracker metrics system started
+2025-07-13 17:10:10,979 INFO input.FileInputFormat: Total input files to process : 1
+2025-07-13 17:10:11,000 INFO mapreduce.JobSubmitter: number of splits:1
+2025-07-13 17:10:11,169 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_local1024001273_0001
+2025-07-13 17:10:11,169 INFO mapreduce.JobSubmitter: Executing with tokens: []
+2025-07-13 17:10:12,036 INFO mapreduce.Job: The url to track the job: http://localhost:8080/
+2025-07-13 17:10:12,037 INFO mapreduce.Job: Running job: job_local1024001273_0001
+2025-07-13 17:10:12,042 INFO mapred.LocalJobRunner: OutputCommitter set in config null
+2025-07-13 17:10:12,048 INFO output.PathOutputCommitterFactory: No output committer factory defined, defaulting to FileOutputCommitterFactory
+2025-07-13 17:10:12,049 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2025-07-13 17:10:12,049 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2025-07-13 17:10:12,049 INFO mapred.LocalJobRunner: OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+2025-07-13 17:10:13,031 INFO mapred.LocalJobRunner: Starting task: attempt_local1024001273_0001_m_000000_0
+2025-07-13 17:10:13,035 INFO mapred.LocalJobRunner: Waiting for map tasks
+2025-07-13 17:10:13,046 INFO mapreduce.Job: Job job_local1024001273_0001 running in uber mode : false
+2025-07-13 17:10:13,048 INFO mapreduce.Job:  map 0% reduce 0%
+2025-07-13 17:10:13,067 INFO output.PathOutputCommitterFactory: No output committer factory defined, defaulting to FileOutputCommitterFactory
+2025-07-13 17:10:13,068 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2025-07-13 17:10:13,068 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2025-07-13 17:10:13,091 INFO mapred.Task:  Using ResourceCalculatorProcessTree : [ ]
+2025-07-13 17:10:13,289 INFO mapred.MapTask: Processing split: file:/home/project/hadoop-3.3.6/data.txt:0+47
+2025-07-13 17:10:13,385 INFO mapred.MapTask: (EQUATOR) 0 kvi 26214396(104857584)
+2025-07-13 17:10:13,385 INFO mapred.MapTask: mapreduce.task.io.sort.mb: 100
+2025-07-13 17:10:13,385 INFO mapred.MapTask: soft limit at 83886080
+2025-07-13 17:10:13,385 INFO mapred.MapTask: bufstart = 0; bufvoid = 104857600
+2025-07-13 17:10:13,385 INFO mapred.MapTask: kvstart = 26214396; length = 6553600
+2025-07-13 17:10:13,391 INFO mapred.MapTask: Map output collector class = org.apache.hadoop.mapred.MapTask$MapOutputBuffer
+2025-07-13 17:10:13,819 INFO mapred.LocalJobRunner: 
+2025-07-13 17:10:13,820 INFO mapred.MapTask: Starting flush of map output
+2025-07-13 17:10:13,820 INFO mapred.MapTask: Spilling map output
+2025-07-13 17:10:13,820 INFO mapred.MapTask: bufstart = 0; bufend = 71; bufvoid = 104857600
+2025-07-13 17:10:13,820 INFO mapred.MapTask: kvstart = 26214396(104857584); kvend = 26214376(104857504); length = 21/6553600
+2025-07-13 17:10:13,834 INFO mapred.MapTask: Finished spill 0
+2025-07-13 17:10:13,845 INFO mapred.Task: Task:attempt_local1024001273_0001_m_000000_0 is done. And is in the process of committing
+2025-07-13 17:10:13,848 INFO mapred.LocalJobRunner: map
+2025-07-13 17:10:13,848 INFO mapred.Task: Task 'attempt_local1024001273_0001_m_000000_0' done.
+2025-07-13 17:10:13,855 INFO mapred.Task: Final Counters for attempt_local1024001273_0001_m_000000_0: Counters: 18
+        File System Counters
+                FILE: Number of bytes read=281554
+                FILE: Number of bytes written=921371
+                FILE: Number of read operations=0
+                FILE: Number of large read operations=0
+                FILE: Number of write operations=0
+        Map-Reduce Framework
+                Map input records=3
+                Map output records=6
+                Map output bytes=71
+                Map output materialized bytes=59
+                Input split bytes=105
+                Combine input records=6
+                Combine output records=4
+                Spilled Records=4
+                Failed Shuffles=0
+                Merged Map outputs=0
+                GC time elapsed (ms)=15
+                Total committed heap usage (bytes)=193986560
+        File Input Format Counters 
+                Bytes Read=47
+2025-07-13 17:10:13,855 INFO mapred.LocalJobRunner: Finishing task: attempt_local1024001273_0001_m_000000_0
+2025-07-13 17:10:13,856 INFO mapred.LocalJobRunner: map task executor complete.
+2025-07-13 17:10:13,861 INFO mapred.LocalJobRunner: Waiting for reduce tasks
+2025-07-13 17:10:13,862 INFO mapred.LocalJobRunner: Starting task: attempt_local1024001273_0001_r_000000_0
+2025-07-13 17:10:13,871 INFO output.PathOutputCommitterFactory: No output committer factory defined, defaulting to FileOutputCommitterFactory
+2025-07-13 17:10:13,871 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 2
+2025-07-13 17:10:13,872 INFO output.FileOutputCommitter: FileOutputCommitter skip cleanup _temporary folders under output directory:false, ignore cleanup failures: false
+2025-07-13 17:10:13,872 INFO mapred.Task:  Using ResourceCalculatorProcessTree : [ ]
+2025-07-13 17:10:13,875 INFO mapred.ReduceTask: Using ShuffleConsumerPlugin: org.apache.hadoop.mapreduce.task.reduce.Shuffle@6ee1f0e2
+2025-07-13 17:10:13,876 WARN impl.MetricsSystemImpl: JobTracker metrics system already initialized!
+2025-07-13 17:10:13,897 INFO reduce.MergeManagerImpl: MergerManager: memoryLimit=700239040, maxSingleShuffleLimit=175059760, mergeThreshold=462157792, ioSortFactor=10, memToMemMergeOutputsThreshold=10
+2025-07-13 17:10:13,899 INFO reduce.EventFetcher: attempt_local1024001273_0001_r_000000_0 Thread started: EventFetcher for fetching Map Completion Events
+2025-07-13 17:10:13,926 INFO reduce.LocalFetcher: localfetcher#1 about to shuffle output of map attempt_local1024001273_0001_m_000000_0 decomp: 55 len: 59 to MEMORY
+2025-07-13 17:10:13,929 INFO reduce.InMemoryMapOutput: Read 55 bytes from map-output for attempt_local1024001273_0001_m_000000_0
+2025-07-13 17:10:13,931 INFO reduce.MergeManagerImpl: closeInMemoryFile -> map-output of size: 55, inMemoryMapOutputs.size() -> 1, commitMemory -> 0, usedMemory ->55
+2025-07-13 17:10:13,932 INFO reduce.EventFetcher: EventFetcher is interrupted.. Returning
+2025-07-13 17:10:13,933 INFO mapred.LocalJobRunner: 1 / 1 copied.
+2025-07-13 17:10:13,933 INFO reduce.MergeManagerImpl: finalMerge called with 1 in-memory map-outputs and 0 on-disk map-outputs
+2025-07-13 17:10:13,939 INFO mapred.Merger: Merging 1 sorted segments
+2025-07-13 17:10:13,939 INFO mapred.Merger: Down to the last merge-pass, with 1 segments left of total size: 45 bytes
+2025-07-13 17:10:13,940 INFO reduce.MergeManagerImpl: Merged 1 segments, 55 bytes to disk to satisfy reduce memory limit
+2025-07-13 17:10:13,941 INFO reduce.MergeManagerImpl: Merging 1 files, 59 bytes from disk
+2025-07-13 17:10:13,941 INFO reduce.MergeManagerImpl: Merging 0 segments, 0 bytes from memory into reduce
+2025-07-13 17:10:13,941 INFO mapred.Merger: Merging 1 sorted segments
+2025-07-13 17:10:13,942 INFO mapred.Merger: Down to the last merge-pass, with 1 segments left of total size: 45 bytes
+2025-07-13 17:10:13,943 INFO mapred.LocalJobRunner: 1 / 1 copied.
+2025-07-13 17:10:13,946 INFO Configuration.deprecation: mapred.skip.on is deprecated. Instead, use mapreduce.job.skiprecords
+2025-07-13 17:10:13,948 INFO mapred.Task: Task:attempt_local1024001273_0001_r_000000_0 is done. And is in the process of committing
+2025-07-13 17:10:13,950 INFO mapred.LocalJobRunner: 1 / 1 copied.
+2025-07-13 17:10:13,950 INFO mapred.Task: Task attempt_local1024001273_0001_r_000000_0 is allowed to commit now
+2025-07-13 17:10:14,054 INFO mapreduce.Job:  map 100% reduce 0%
+2025-07-13 17:10:14,493 INFO output.FileOutputCommitter: Saved output of task 'attempt_local1024001273_0001_r_000000_0' to file:/home/project/hadoop-3.3.6/output
+2025-07-13 17:10:14,495 INFO mapred.LocalJobRunner: reduce > reduce
+2025-07-13 17:10:14,496 INFO mapred.Task: Task 'attempt_local1024001273_0001_r_000000_0' done.
+2025-07-13 17:10:14,496 INFO mapred.Task: Final Counters for attempt_local1024001273_0001_r_000000_0: Counters: 24
+        File System Counters
+                FILE: Number of bytes read=281704
+                FILE: Number of bytes written=921479
+                FILE: Number of read operations=0
+                FILE: Number of large read operations=0
+                FILE: Number of write operations=0
+        Map-Reduce Framework
+                Combine input records=0
+                Combine output records=0
+                Reduce input groups=4
+                Reduce shuffle bytes=59
+                Reduce input records=4
+                Reduce output records=4
+                Spilled Records=4
+                Shuffled Maps =1
+                Failed Shuffles=0
+                Merged Map outputs=1
+                GC time elapsed (ms)=0
+                Total committed heap usage (bytes)=193986560
+        Shuffle Errors
+                BAD_ID=0
+                CONNECTION=0
+                IO_ERROR=0
+                WRONG_LENGTH=0
+                WRONG_MAP=0
+                WRONG_REDUCE=0
+        File Output Format Counters 
+                Bytes Written=49
+2025-07-13 17:10:14,497 INFO mapred.LocalJobRunner: Finishing task: attempt_local1024001273_0001_r_000000_0
+2025-07-13 17:10:14,497 INFO mapred.LocalJobRunner: reduce task executor complete.
+2025-07-13 17:10:15,055 INFO mapreduce.Job:  map 100% reduce 100%
+2025-07-13 17:10:15,056 INFO mapreduce.Job: Job job_local1024001273_0001 completed successfully
+2025-07-13 17:10:15,063 INFO mapreduce.Job: Counters: 30
+        File System Counters
+                FILE: Number of bytes read=563258
+                FILE: Number of bytes written=1842850
+                FILE: Number of read operations=0
+                FILE: Number of large read operations=0
+                FILE: Number of write operations=0
+        Map-Reduce Framework
+                Map input records=3
+                Map output records=6
+                Map output bytes=71
+                Map output materialized bytes=59
+                Input split bytes=105
+                Combine input records=6
+                Combine output records=4
+                Reduce input groups=4
+                Reduce shuffle bytes=59
+                Reduce input records=4
+                Reduce output records=4
+                Spilled Records=8
+                Shuffled Maps =1
+                Failed Shuffles=0
+                Merged Map outputs=1
+                GC time elapsed (ms)=15
+                Total committed heap usage (bytes)=387973120
+        Shuffle Errors
+                BAD_ID=0
+                CONNECTION=0
+                IO_ERROR=0
+                WRONG_LENGTH=0
+                WRONG_MAP=0
+                WRONG_REDUCE=0
+        File Input Format Counters 
+                Bytes Read=47
+        File Output Format Counters 
+                Bytes Written=49
+Listing output directory contents...
+_SUCCESS  part-r-00000
+Word count result:
+BigData 2
+Hadoop  1
+IBM     1
+MapReduce       2
