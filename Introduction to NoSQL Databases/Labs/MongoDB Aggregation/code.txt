@@ -1,0 +1,260 @@
+theia@theiadocker-hirewillieco:/home/project$ mongosh mongodb://root:TacABiMk0BN3pxj2TEUBpkRK@172.21.181.27:27017
+Current Mongosh Log ID: 68f46d49f13941f4abce5f46
+Connecting to:          mongodb://<credentials>@172.21.181.27:27017/?directConnection=true&appName=mongosh+2.5.8
+Using MongoDB:          4.4.29
+Using Mongosh:          2.5.8
+
+For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
+
+------
+   The server generated these startup warnings when booting
+   2025-10-19T02:24:41.630+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+------
+
+test> use training
+switched to db training
+training> db.marks.aggregate([{"$sort":{"marks":-1}}]);
+[
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f51'),
+    name: 'Steve',
+    subject: 'english',
+    marks: 89
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f47'),
+    name: 'Ramesh',
+    subject: 'maths',
+    marks: 87
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4f'),
+    name: 'Alison',
+    subject: 'science',
+    marks: 86
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4d'),
+    name: 'Alison',
+    subject: 'maths',
+    marks: 84
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4b'),
+    name: 'Rav',
+    subject: 'english',
+    marks: 83
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4e'),
+    name: 'Alison',
+    subject: 'english',
+    marks: 82
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f50'),
+    name: 'Steve',
+    subject: 'maths',
+    marks: 81
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f49'),
+    name: 'Ramesh',
+    subject: 'science',
+    marks: 77
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f52'),
+    name: 'Steve',
+    subject: 'science',
+    marks: 77
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4c'),
+
+training> db.marks.aggregate([
+... {
+...     "$group":{
+...         "_id":"$name",
+...         "average":{"$avg":"$marks"}
+...         }
+... },
+... {
+...     "$sort":{"average":-1}
+... },
+... {
+...     "$limit":2
+... }
+... ]);
+[
+  { _id: 'Alison', average: 84 },
+  { _id: 'Steve', average: 82.33333333333333 }
+]
+theia@theiadocker-hirewillieco:/home/project$ mongosh mongodb://root:TacABiMk0BN3pxj2TEUBpkRK@172.21.181.27:27017
+Current Mongosh Log ID: 68f46d49f13941f4abce5f46
+Connecting to:          mongodb://<credentials>@172.21.181.27:27017/?directConnection=true&appName=mongosh+2.5.8
+Using MongoDB:          4.4.29
+Using Mongosh:          2.5.8
+
+For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
+
+------
+   The server generated these startup warnings when booting
+   2025-10-19T02:24:41.630+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+------
+
+test> use training
+switched to db training
+training> db.marks.aggregate([{"$sort":{"marks":-1}}]);
+[
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f51'),
+    name: 'Steve',
+    subject: 'english',
+    marks: 89
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f47'),
+    name: 'Ramesh',
+    subject: 'maths',
+    marks: 87
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4f'),
+    name: 'Alison',
+    subject: 'science',
+    marks: 86
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4d'),
+    name: 'Alison',
+    subject: 'maths',
+    marks: 84
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4b'),
+    name: 'Rav',
+    subject: 'english',
+    marks: 83
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4e'),
+    name: 'Alison',
+    subject: 'english',
+    marks: 82
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f50'),
+    name: 'Steve',
+    subject: 'maths',
+    marks: 81
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f49'),
+    name: 'Ramesh',
+
+training> db.marks.aggregate([
+... {
+...     "$group":{
+...         "_id":"$name",
+...         "average":{"$avg":"$marks"}
+...         }
+... },
+... {
+...     "$sort":{"average":-1}
+... },
+... {
+...     "$limit":2
+... }
+... ]);
+[
+  { _id: 'Alison', average: 84 },
+  { _id: 'Steve', average: 82.33333333333333 }
+]
+theia@theiadocker-hirewillieco:/home/project$ mongosh mongodb://root:TacABiMk0BN3pxj2TEUBpkRK@172.21.181.27:27017
+Current Mongosh Log ID: 68f46d49f13941f4abce5f46
+Connecting to:          mongodb://<credentials>@172.21.181.27:27017/?directConnection=true&appName=mongosh+2.5.8
+Using MongoDB:          4.4.29
+Using Mongosh:          2.5.8
+
+For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
+
+------
+   The server generated these startup warnings when booting
+   2025-10-19T02:24:41.630+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+------
+
+test> use training
+switched to db training
+training> db.marks.aggregate([{"$sort":{"marks":-1}}]);
+[
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f51'),
+    name: 'Steve',
+    subject: 'english',
+    marks: 89
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f47'),
+    name: 'Ramesh',
+    subject: 'maths',
+    marks: 87
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4f'),
+    name: 'Alison',
+    subject: 'science',
+    marks: 86
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4d'),
+    name: 'Alison',
+    subject: 'maths',
+    marks: 84
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4b'),
+    name: 'Rav',
+    subject: 'english',
+    marks: 83
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f4e'),
+    name: 'Alison',
+    subject: 'english',
+    marks: 82
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f50'),
+    name: 'Steve',
+    subject: 'maths',
+    marks: 81
+  },
+  {
+    _id: ObjectId('68f468c47fc9871f2ece5f49'),
+    name: 'Ramesh',
+
+training> db.marks.aggregate([
+... {
+...     "$group":{
+...         "_id":"$name",
+...         "average":{"$avg":"$marks"}
+...         }
+... },
+... {
+...     "$sort":{"average":-1}
+... },
+... {
+...     "$limit":2
+... }
+... ]);
+[
+  { _id: 'Alison', average: 84 },
+  { _id: 'Steve', average: 82.33333333333333 }
+]
+training> 
+
+
+
+
+
