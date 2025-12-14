@@ -1,0 +1,7 @@
+root@cqlsh:training> DELETE from movies
+root@cqlsh:training> DELETE from movies
+root@cqlsh:training> exit
+theia@theiadocker-hirewillieco:/home/project$ 
+
+
+
