@@ -1,0 +1,57 @@
+theia@theiadocker-hirewillieco:/home/project$ cqlsh 172.21.229.247 9042 --username root --password 8CD7KTw6hurvK3iPxgW9vWLS
+WARNING: cqlsh was built against 4.0.18, but this server is 5.0.  All features may not work!
+Connected to Test Cluster at 172.21.229.247:9042
+[cqlsh 6.0.0 | Cassandra 5.0-beta1 | CQL spec 3.4.7 | Native protocol v5]
+Use HELP for help.
+root@cqlsh> 
+theia@theiadocker-hirewillieco:/home/project$ cqlsh 172.21.229.247 9042 --username root --password 8CD7KTw6hurvK3iPxgW9vWLS
+WARNING: cqlsh was built against 4.0.18, but this server is 5.0.  All features may not work!
+Connected to Test Cluster at 172.21.229.247:9042
+[cqlsh 6.0.0 | Cassandra 5.0-beta1 | CQL spec 3.4.7 | Native protocol v5]
+Use HELP for help.
+root@cqlsh> 
+theia@theiadocker-hirewillieco:/home/project$ cqlsh 172.21.229.247 9042 --username root --password 8CD7KTw6hurvK3iPxgW9vWLS
+WARNING: cqlsh was built against 4.0.18, but this server is 5.0.  All features may not work!
+Connected to Test Cluster at 172.21.229.247:9042
+[cqlsh 6.0.0 | Cassandra 5.0-beta1 | CQL spec 3.4.7 | Native protocol v5]
+Use HELP for help.
+root@cqlsh> 
+theia@theiadocker-hirewillieco:/home/project$ cqlsh 172.21.229.247 9042 --username root --password 8CD7KTw6hurvK3iPxgW9vWLS
+WARNING: cqlsh was built against 4.0.18, but this server is 5.0.  All features may not work!
+Connected to Test Cluster at 172.21.229.247:9042
+[cqlsh 6.0.0 | Cassandra 5.0-beta1 | CQL spec 3.4.7 | Native protocol v5]
+Use HELP for help.
+root@cqlsh> 
+theia@theiadocker-hirewillieco:/home/project$ cqlsh 172.21.229.247 9042 --username roo
+root@cqlsh:system> describe keyspaces
+
+system       system_distributed  system_traces  system_virtual_schema
+system_auth  system_schema       system_views 
+
+root@cqlsh:system> exit
+theia@theiadocker-hirewillieco:/home/project$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
