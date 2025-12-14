@@ -1,0 +1,8 @@
+use training
+db.languages.insert({"name":"java","type":"object oriented"})
+db.languages.insert({"name":"python","type":"general purpose"})
+db.languages.insert({"name":"scala","type":"functional"})
+db.languages.insert({"name":"c","type":"procedural"})
+db.languages.insert({"name":"c++","type":"object oriented"})
+
+
