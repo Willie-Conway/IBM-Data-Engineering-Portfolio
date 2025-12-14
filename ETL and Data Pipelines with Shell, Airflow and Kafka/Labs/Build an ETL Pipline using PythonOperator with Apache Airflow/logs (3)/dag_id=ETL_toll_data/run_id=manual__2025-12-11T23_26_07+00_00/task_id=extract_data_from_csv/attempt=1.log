@@ -1,0 +1,20 @@
+[2025-12-11T23:26:22.859+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-12-11T23:26:23.014+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ETL_toll_data.extract_data_from_csv manual__2025-12-11T23:26:07+00:00 [queued]>
+[2025-12-11T23:26:23.076+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ETL_toll_data.extract_data_from_csv manual__2025-12-11T23:26:07+00:00 [queued]>
+[2025-12-11T23:26:23.076+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2025-12-11T23:26:23.134+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): extract_data_from_csv> on 2025-12-11 23:26:07+00:00
+[2025-12-11T23:26:23.174+0000] {standard_task_runner.py:63} INFO - Started process 1178 to run task
+[2025-12-11T23:26:23.194+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'ETL_toll_data', 'extract_data_from_csv', 'manual__2025-12-11T23:26:07+00:00', '--job-id', '5', '--raw', '--subdir', 'DAGS_FOLDER/ETL_toll_data.py', '--cfg-path', '/tmp/tmp4n6bqq4w']
+[2025-12-11T23:26:23.213+0000] {standard_task_runner.py:91} INFO - Job 5: Subtask extract_data_from_csv
+[2025-12-11T23:26:23.295+0000] {warnings.py:109} WARNING - /home/***/.local/lib/python3.9/site-packages/***/settings.py:195: DeprecationWarning: The sql_alchemy_conn option in [core] has been moved to the sql_alchemy_conn option in [database] - the old setting has been used, but please update your config.
+  SQL_ALCHEMY_CONN = conf.get("database", "SQL_ALCHEMY_CONN")
+
+[2025-12-11T23:26:23.533+0000] {task_command.py:426} INFO - Running <TaskInstance: ETL_toll_data.extract_data_from_csv manual__2025-12-11T23:26:07+00:00 [running]> on host f96f3016bc2c
+[2025-12-11T23:26:24.091+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='hire.willie.conway@example.com' AIRFLOW_CTX_DAG_OWNER='willie conway' AIRFLOW_CTX_DAG_ID='ETL_toll_data' AIRFLOW_CTX_TASK_ID='extract_data_from_csv' AIRFLOW_CTX_EXECUTION_DATE='2025-12-11T23:26:07+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-12-11T23:26:07+00:00'
+[2025-12-11T23:26:24.094+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-12-11T23:26:24.137+0000] {logging_mixin.py:188} INFO - CSV extraction complete.
+[2025-12-11T23:26:24.138+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-12-11T23:26:24.150+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-12-11T23:26:24.214+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=ETL_toll_data, task_id=extract_data_from_csv, run_id=manual__2025-12-11T23:26:07+00:00, execution_date=20251211T232607, start_date=20251211T232623, end_date=20251211T232624
+[2025-12-11T23:26:24.310+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-12-11T23:26:24.392+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
