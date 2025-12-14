@@ -1,0 +1,12 @@
+root@cqlsh:training> ALTER TABLE movies
+            ... ADD genre text;
+root@cqlsh:training> describe movies;
+
+CREATE TABLE training.movies (
+    movie_id int PRIMARY KEY,
+)
+root@cqlsh:training> exit
+theia@theiadocker-hirewillieco:/home/project$ 
+
+
+
