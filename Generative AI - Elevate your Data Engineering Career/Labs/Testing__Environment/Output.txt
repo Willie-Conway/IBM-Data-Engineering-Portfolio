@@ -1,0 +1,148 @@
+
+hirew@Willie MINGW64 ~/IBM-Data-Engineering-Portfolio/Generative AI - Elevate your Data Engineering Career/Labs/Testing__Environment (main)
+$ python "test_file.py"
+C:\Users\hirew\IBM-Data-Engineering-Portfolio\Generative AI - Elevate your Data Engineering Career\Labs\Testing__Environment\test_file.py:11: FutureWarning: The 'delim_whitespace' keyword in pd.read_csv is deprecated and will be removed in a future version. Use ``sep='\s+'`` instead
+  data = pd.read_csv(url, delim_whitespace=True, names=column_names, na_values='?')
+First 5 rows of the dataset:
+    mpg  cylinders  displacement  horsepower  weight  acceleration  model_year  origin                   car_name
+0  18.0          8         307.0       130.0  3504.0          12.0          70       1  chevrolet chevelle malibu
+1  15.0          8         350.0       165.0  3693.0          11.5          70       1          buick skylark 320
+2  18.0          8         318.0       150.0  3436.0          11.0          70       1         plymouth satellite
+3  16.0          8         304.0       150.0  3433.0          12.0          70       1              amc rebel sst
+4  17.0          8         302.0       140.0  3449.0          10.5          70       1                ford torino
+
+Summary statistics:
+               mpg   cylinders  displacement  horsepower       weight  acceleration  model_year      origin     car_name
+count   392.000000  392.000000    392.000000  392.000000   392.000000    392.000000  392.000000  392.000000          392
+unique         NaN         NaN           NaN         NaN          NaN           NaN         NaN         NaN          301
+top            NaN         NaN           NaN         NaN          NaN           NaN         NaN         NaN  amc matador
+freq           NaN         NaN           NaN         NaN          NaN           NaN         NaN         NaN            5
+mean     23.445918    5.471939    194.411990  104.469388  2977.584184     15.541327   75.979592    1.576531          NaN
+std       7.805007    1.705783    104.644004   38.491160   849.402560      2.758864    3.683737    0.805518          NaN
+min       9.000000    3.000000     68.000000   46.000000  1613.000000      8.000000   70.000000    1.000000          NaN
+25%      17.000000    4.000000    105.000000   75.000000  2225.250000     13.775000   73.000000    1.000000          NaN
+50%      22.750000    4.000000    151.000000   93.500000  2803.500000     15.500000   76.000000    1.000000          NaN
+75%      29.000000    8.000000    275.750000  126.000000  3614.750000     17.025000   79.000000    2.000000          NaN
+max      46.600000    8.000000    455.000000  230.000000  5140.000000     24.800000   82.000000    3.000000          NaN
+
+Data types and missing values:
+<class 'pandas.core.frame.DataFrame'>
+Index: 392 entries, 0 to 397
+Data columns (total 9 columns):
+ #   Column        Non-Null Count  Dtype
+---  ------        --------------  -----
+ 0   mpg           392 non-null    float64
+ 1   cylinders     392 non-null    int64
+ 2   displacement  392 non-null    float64
+ 3   horsepower    392 non-null    float64
+ 4   weight        392 non-null    float64
+ 5   acceleration  392 non-null    float64
+ 6   model_year    392 non-null    int64
+ 7   origin        392 non-null    int64
+ 8   car_name      392 non-null    object
+Data columns (total 9 columns):
+ #   Column        Non-Null Count  Dtype
+---  ------        --------------  -----
+ 0   mpg           392 non-null    float64
+ 1   cylinders     392 non-null    int64
+ 2   displacement  392 non-null    float64
+ 3   horsepower    392 non-null    float64
+ 4   weight        392 non-null    float64
+ 5   acceleration  392 non-null    float64
+ 6   model_year    392 non-null    int64
+ 7   origin        392 non-null    int64
+ 8   car_name      392 non-null    object
+dtypes: float64(5), int64(3), object(1)
+memory usage: 30.6+ KB
+None
+
+Generating distribution plots...
+
+Generating correlation heatmap...
+
+Performing label encoding on categorical variables...
+
+Label encoding completed. Transformed dataset:
+    mpg  cylinders  displacement  horsepower  weight  acceleration  model_year  origin  car_name
+0  18.0          8         307.0       130.0  3504.0          12.0          70       1        48
+1  15.0          8         350.0       165.0  3693.0          11.5          70       1        35
+2  18.0          8         318.0       150.0  3436.0          11.0          70       1       229
+3  16.0          8         304.0       150.0  3433.0          12.0          70       1        13
+4  17.0          8         302.0       140.0  3449.0          10.5          70       1       159
+Data columns (total 9 columns):
+ #   Column        Non-Null Count  Dtype
+---  ------        --------------  -----
+ 0   mpg           392 non-null    float64
+ 1   cylinders     392 non-null    int64
+ 2   displacement  392 non-null    float64
+ 3   horsepower    392 non-null    float64
+ 4   weight        392 non-null    float64
+ 5   acceleration  392 non-null    float64
+ 6   model_year    392 non-null    int64
+ 7   origin        392 non-null    int64
+ 8   car_name      392 non-null    object
+dtypes: float64(5), int64(3), object(1)
+memory usage: 30.6+ KB
+None
+
+Generating distribution plots...
+
+Data columns (total 9 columns):
+ #   Column        Non-Null Count  Dtype
+---  ------        --------------  -----
+ 0   mpg           392 non-null    float64
+ 1   cylinders     392 non-null    int64
+ 2   displacement  392 non-null    float64
+ 3   horsepower    392 non-null    float64
+ 4   weight        392 non-null    float64
+ 5   acceleration  392 non-null    float64
+ 6   model_year    392 non-null    int64
+ 7   origin        392 non-null    int64
+ 8   car_name      392 non-null    object
+ 2   displacement  392 non-null    float64
+ 3   horsepower    392 non-null    float64
+ 4   weight        392 non-null    float64
+ 5   acceleration  392 non-null    float64
+ 6   model_year    392 non-null    int64
+ 7   origin        392 non-null    int64
+ 8   car_name      392 non-null    object
+ 5   acceleration  392 non-null    float64
+ 6   model_year    392 non-null    int64
+ 7   origin        392 non-null    int64
+ 8   car_name      392 non-null    object
+ 8   car_name      392 non-null    object
+dtypes: float64(5), int64(3), object(1)
+memory usage: 30.6+ KB
+None
+
+Generating distribution plots...
+
+Generating correlation heatmap...
+
+Performing label encoding on categorical variables...
+
+None
+
+Generating distribution plots...
+
+Generating correlation heatmap...
+
+Performing label encoding on categorical variables...
+
+Generating distribution plots...
+
+Generating correlation heatmap...
+
+Performing label encoding on categorical variables...
+
+Label encoding completed. Transformed dataset:
+    mpg  cylinders  displacement  horsepower  weight  acceleration  model_year  origin  car_name
+    mpg  cylinders  displacement  horsepower  weight  acceleration  model_year  origin  car_name
+0  18.0          8         307.0       130.0  3504.0          12.0          70       1        48
+1  15.0          8         350.0       165.0  3693.0          11.5          70       1        35
+1  15.0          8         350.0       165.0  3693.0          11.5          70       1        35
+2  18.0          8         318.0       150.0  3436.0          11.0          70       1       229
+3  16.0          8         304.0       150.0  3433.0          12.0          70       1        13
+4  17.0          8         302.0       140.0  3449.0          10.5          70       1       159
+
+hirew@Willie MINGW64 ~/IBM-Data-Engineering-Portfolio/Generative AI - Elevate your Data Engineering Career/Labs/Testing__Environment (main)
