@@ -1,0 +1,24 @@
+Table Customer {
+  CustomerID int [pk]
+  CustomerName varchar
+  Address varchar
+  Phone varchar
+  Email varchar
+}
+
+Table Inventory {
+  StockCode int [pk]
+  Description varchar
+  QuantityAvailable int
+  Price decimal
+}
+
+Table TransactionInvoice {
+  InvoiceNo int [pk]
+  StockCode int [ref: > Inventory.StockCode]
+  Quantity int
+  InvoiceDate date
+  UnitPrice decimal
+  CustomerID int [ref: > Customer.CustomerID]
+  Country varchar
+}
