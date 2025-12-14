@@ -1,0 +1,24 @@
+theia@theiadocker-hirewillieco:/home/project$ chmod +x setup_and_start_spark_master.sh
+theia@theiadocker-hirewillieco:/home/project$ ./setup_and_start_spark_master.sh
+📥 Downloading and extracting Spark...
+--2025-07-13 22:01:10--  https://archive.apache.org/dist/spark/spark-3.3.3/spark-3.3.3-bin-hadoop3.tgz
+Resolving archive.apache.org (archive.apache.org)... 65.108.204.189, 65.108.204.189
+Connecting to archive.apache.org (archive.apache.org)|65.108.204.189|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 299426263 (286M) [application/x-gzip]
+Saving to: 'spark-3.3.3-bin-hadoop3.tgz'
+
+spark-3.3.3-bin-hadoo 100%[======================>] 285.55M  14.5MB/s    in 59s     
+
+2025-07-13 22:02:10 (4.84 MB/s) - 'spark-3.3.3-bin-hadoop3.tgz' saved [299426263/299426263]
+
+✅ Spark extracted.
+📁 Setting SPARK_HOME to: /home/project/spark-3.3.3-bin-hadoop3
+📁 Setting JAVA_HOME to: /usr/lib/jvm/java-1.11.0-openjdk-amd64
+🛠 Creating spark-defaults.conf ...
+✅ Configuration written to spark-defaults.conf
+🚀 Starting Spark Master...
+starting org.apache.spark.deploy.master.Master, logging to /home/project/spark-3.3.3-bin-hadoop3/logs/spark--org.apache.spark.deploy.master.Master-1-theiadocker-hirewillieco.out
+✅ Spark Master should now be running.
+🔗 Check the Spark Master UI at: http://localhost:8080 or http://<your-VM-IP>:8080
+theia@theiadocker-hirewillieco:/home/project$ 

@@ -1,0 +1,8 @@
+theia@theiadocker-hirewillieco:/home/project$ chmod +x start_spark_worker.sh
+theia@theiadocker-hirewillieco:/home/project$ ./start_spark_worker.sh spark://theiadocker-hirewillieco:7077
+🚀 Starting Spark Worker...
+🔗 Connecting to Master at: spark://theiadocker-hirewillieco:7077
+starting org.apache.spark.deploy.worker.Worker, logging to /home/project/spark-3.3.3-bin-hadoop3/logs/spark--org.apache.spark.deploy.worker.Worker-1-theiadocker-hirewillieco.out
+✅ Spark Worker should now be running and connected to the Master.
+🌐 Visit http://localhost:8080 or your Spark Master UI to confirm.
+theia@theiadocker-hirewillieco:/home/project$ 

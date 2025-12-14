@@ -1,0 +1,22 @@
+theia@theiadocker-hirewillieco:/home/project$ chmod +x run_spark_submit.sh
+theia@theiadocker-hirewillieco:/home/project$ ./run_spark_submit.sh
+Installing findspark...
+Defaulting to user installation because normal site-packages is not writeable
+Collecting findspark
+  Downloading findspark-2.0.1-py2.py3-none-any.whl (4.4 kB)
+Installing collected packages: findspark
+Successfully installed findspark-2.0.1
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+25/07/13 22:55:57 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[('id', 'int'), ('txt', 'string')]
+
+DataFrame:
++---+---+                                                                       
+| id|txt|
++---+---+
+|  1|foo|
+|  2|bar|
++---+---+
+
+theia@theiadocker-hirewillieco:/home/project$ 
