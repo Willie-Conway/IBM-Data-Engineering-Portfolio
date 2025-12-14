@@ -1,0 +1,21 @@
+theia@theiadocker-hirewillieco:/home/project$ chmod +x setup_k8s_env.sh
+theia@theiadocker-hirewillieco:/home/project$  ./setup_k8s_env.sh
+🔍 Checking for existing repository …
+⬇️  Cloning repository …
+Cloning into 'fgskh-new_horizons'...
+remote: Enumerating objects: 69, done.
+remote: Counting objects: 100% (69/69), done.
+remote: Compressing objects: 100% (54/54), done.
+remote: Total 69 (delta 17), reused 57 (delta 11), pack-reused 0 (from 0)
+Receiving objects: 100% (69/69), 16.18 KiB | 16.18 MiB/s, done.
+Resolving deltas: 100% (17/17), done.
+📂 Changing into project directory: fgskh-new_horizons
+⚙️  Setting alias k='kubectl' for this session …
+✅ Added alias k='kubectl' to /home/theia/.bashrc
+📑 Detecting current Kubernetes namespace …
+✅ Current namespace stored in $my_namespace : sn-labs-hirewillieco
+
+🎉  Environment ready.
+
+➡  Next steps: you may now run 'k get pods -n $my_namespace' or apply your manifests.
+theia@theiadocker-hirewillieco:/home/project$ 

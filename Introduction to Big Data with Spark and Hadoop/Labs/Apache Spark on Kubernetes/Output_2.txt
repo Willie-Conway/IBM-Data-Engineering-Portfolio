@@ -1,0 +1,43 @@
+theia@theiadocker-hirewillieco:/home/project$ chmod +x submit_spark_job.sh
+theia@theiadocker-hirewillieco:/home/project$ ./submit_spark_job.sh
+🚀 Submitting SparkPi job to namespace: 
+   • Iterations  : 10
+   • Docker image: romeokienzler/spark-py:3.1.2
+   • Master URL  : k8s://http://127.0.0.1:8001
+---------------------------------------------
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/spark-3.1.2-bin-hadoop3.2/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+25/07/14 01:25:18 WARN Utils: Kubernetes master URL uses HTTP instead of HTTPS.
+25/07/14 01:25:19 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+25/07/14 01:25:20 INFO SparkKubernetesClientFactory: Auto-configuring K8S client using current context from users K8S config file
+25/07/14 01:25:22 INFO KerberosConfDriverFeatureStep: You have not specified a krb5.conf file locally or via a ConfigMap. Make sure that you have the krb5.conf locally on the driver image.
+Exception in thread "main" io.fabric8.kubernetes.client.KubernetesClientException: Namespace not specified. But operation requires namespace.
+        at io.fabric8.kubernetes.client.dsl.base.OperationSupport.checkNamespace(OperationSupport.java:176)
+        at io.fabric8.kubernetes.client.dsl.base.OperationSupport.handleCreate(OperationSupport.java:251)
+        at io.fabric8.kubernetes.client.dsl.base.BaseOperation.handleCreate(BaseOperation.java:879)
+        at io.fabric8.kubernetes.client.dsl.base.BaseOperation.create(BaseOperation.java:341)
+        at io.fabric8.kubernetes.client.dsl.base.BaseOperation.create(BaseOperation.java:84)
+        at org.apache.spark.deploy.k8s.submit.Client.run(KubernetesClientApplication.scala:139)
+        at org.apache.spark.deploy.k8s.submit.KubernetesClientApplication.$anonfun$run$3(KubernetesClientApplication.scala:213)
+        at org.apache.spark.deploy.k8s.submit.KubernetesClientApplication.$anonfun$run$3$adapted(KubernetesClientApplication.scala:207)
+        at org.apache.spark.util.Utils$.tryWithResource(Utils.scala:2622)
+        at org.apache.spark.deploy.k8s.submit.KubernetesClientApplication.run(KubernetesClientApplication.scala:207)
+        at org.apache.spark.deploy.k8s.submit.KubernetesClientApplication.start(KubernetesClientApplication.scala:179)
+        at org.apache.spark.deploy.SparkSubmit.org$apache$spark$deploy$SparkSubmit$$runMain(SparkSubmit.scala:951)
+        at org.apache.spark.deploy.SparkSubmit.doRunMain$1(SparkSubmit.scala:180)
+        at org.apache.spark.deploy.SparkSubmit.submit(SparkSubmit.scala:203)
+        at org.apache.spark.deploy.SparkSubmit.doSubmit(SparkSubmit.scala:90)
+        at org.apache.spark.deploy.SparkSubmit$$anon$2.doSubmit(SparkSubmit.scala:1039)
+        at org.apache.spark.deploy.SparkSubmit$.main(SparkSubmit.scala:1048)
+        at org.apache.spark.deploy.SparkSubmit.main(SparkSubmit.scala)
+25/07/14 01:25:24 INFO ShutdownHookManager: Shutdown hook called
+25/07/14 01:25:24 INFO ShutdownHookManager: Deleting directory /tmp/spark-bfbe2904-0649-429c-928a-0903e9a2ecb8
+command terminated with exit code 1
+✅ spark-submit command executed.
+🔍 Follow driver logs with:
+    kubectl logs -l spark-role=driver --tail=100 --follow
+theia@theiadocker-hirewillieco:/home/project$ 

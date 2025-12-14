@@ -1,0 +1,106 @@
+theia@theiadocker-hirewillieco:/home/project$ chmod +x submit_sparkpi_once.sh
+theia@theiadocker-hirewillieco:/home/project$ ./submit_sparkpi_once.sh sn-labs-hirewillieco
+🚀 Submitting SparkPi to namespace: sn-labs-hirewillieco
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by org.apache.spark.unsafe.Platform (file:/spark-3.1.2-bin-hadoop3.2/jars/spark-unsafe_2.12-3.1.2.jar) to constructor java.nio.DirectByteBuffer(long,int)
+WARNING: Please consider reporting this to the maintainers of org.apache.spark.unsafe.Platform
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
+25/07/14 02:41:58 WARN Utils: Kubernetes master URL uses HTTP instead of HTTPS.
+25/07/14 02:42:00 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+25/07/14 02:42:00 INFO SparkKubernetesClientFactory: Auto-configuring K8S client using current context from users K8S config file
+25/07/14 02:42:03 INFO KerberosConfDriverFeatureStep: You have not specified a krb5.conf file locally or via a ConfigMap. Make sure that you have the krb5.conf locally on the driver image.
+25/07/14 02:42:08 INFO LoggingPodStatusWatcherImpl: State changed, new state: 
+         pod name: spark-pi-7759ce9807ab41d9-driver
+         namespace: sn-labs-hirewillieco
+         labels: spark-app-selector -> spark-bb7ffdbeba5b41c6bd435c9b8321ad10, spark-role -> driver
+         pod uid: bdb9d7a7-1912-4d4e-a8d7-1a23b5191a7f
+         creation time: 2025-07-14T06:42:06Z
+         service account name: default
+         volumes: spark-local-dir-1, spark-conf-volume-driver, kube-api-access-kdwn7
+         node name: 10.241.128.24
+         start time: 2025-07-14T06:42:06Z
+         phase: Pending
+         container status: 
+                 container name: spark-kubernetes-driver
+                 container image: us.icr.io/docker-io/romeokienzler/spark-py:3.1.2
+                 container state: waiting
+                 pending reason: ContainerCreating
+25/07/14 02:42:08 INFO LoggingPodStatusWatcherImpl: Waiting for application spark-pi with submission ID sn-labs-hirewillieco:spark-pi-7759ce9807ab41d9-driver to finish...
+25/07/14 02:42:08 INFO LoggingPodStatusWatcherImpl: State changed, new state: 
+         pod name: spark-pi-7759ce9807ab41d9-driver
+         namespace: sn-labs-hirewillieco
+         labels: spark-app-selector -> spark-bb7ffdbeba5b41c6bd435c9b8321ad10, spark-role -> driver
+         pod uid: bdb9d7a7-1912-4d4e-a8d7-1a23b5191a7f
+         creation time: 2025-07-14T06:42:06Z
+         service account name: default
+         volumes: spark-local-dir-1, spark-conf-volume-driver, kube-api-access-kdwn7
+         node name: 10.241.128.24
+         start time: 2025-07-14T06:42:06Z
+         phase: Pending
+         container status: 
+                 container name: spark-kubernetes-driver
+                 container image: us.icr.io/docker-io/romeokienzler/spark-py:3.1.2
+                 container state: waiting
+                 pending reason: ContainerCreating
+25/07/14 02:42:09 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Pending)
+25/07/14 02:42:10 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Pending)
+25/07/14 02:42:10 INFO LoggingPodStatusWatcherImpl: State changed, new state: 
+         pod name: spark-pi-7759ce9807ab41d9-driver
+         namespace: sn-labs-hirewillieco
+         labels: spark-app-selector -> spark-bb7ffdbeba5b41c6bd435c9b8321ad10, spark-role -> driver
+         pod uid: bdb9d7a7-1912-4d4e-a8d7-1a23b5191a7f
+         creation time: 2025-07-14T06:42:06Z
+         service account name: default
+         volumes: spark-local-dir-1, spark-conf-volume-driver, kube-api-access-kdwn7
+         node name: 10.241.128.24
+         start time: 2025-07-14T06:42:06Z
+         phase: Pending
+         container status: 
+                 container name: spark-kubernetes-driver
+                 container image: us.icr.io/docker-io/romeokienzler/spark-py:3.1.2
+                 container state: waiting
+                 pending reason: ContainerCreating
+25/07/14 02:42:11 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Pending)
+25/07/14 02:42:12 INFO LoggingPodStatusWatcherImpl: State changed, new state: 
+         pod name: spark-pi-7759ce9807ab41d9-driver
+         namespace: sn-labs-hirewillieco
+         labels: spark-app-selector -> spark-bb7ffdbeba5b41c6bd435c9b8321ad10, spark-role -> driver
+         pod uid: bdb9d7a7-1912-4d4e-a8d7-1a23b5191a7f
+         creation time: 2025-07-14T06:42:06Z
+         service account name: default
+         volumes: spark-local-dir-1, spark-conf-volume-driver, kube-api-access-kdwn7
+         node name: 10.241.128.24
+         start time: 2025-07-14T06:42:06Z
+         phase: Running
+         container status: 
+                 container name: spark-kubernetes-driver
+                 container image: us.icr.io/docker-io/romeokienzler/spark-py:3.1.2
+                 container state: running
+                 container started at: 2025-07-14T06:42:11Z
+25/07/14 02:42:12 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:13 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:14 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:15 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:16 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:17 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:18 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:19 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:20 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:21 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:22 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:23 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:24 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:25 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:26 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:27 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:28 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:29 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:30 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:31 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:32 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:33 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:34 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:35 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)
+25/07/14 02:42:36 INFO LoggingPodStatusWatcherImpl: Application status for spark-bb7ffdbeba5b41c6bd435c9b8321ad10 (phase: Running)

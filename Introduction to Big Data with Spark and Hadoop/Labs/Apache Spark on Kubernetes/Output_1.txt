@@ -1,0 +1,8 @@
+theia@theiadocker-hirewillieco:/home/project$ chmod +x deploy_spark_pod.sh
+theia@theiadocker-hirewillieco:/home/project$ ./deploy_spark_pod.sh
+🗑  Deleting pod spark
+🚀 Applying manifest: fgskh-new_horizons/spark/pod_spark.yaml
+✅ Pod is Running (2/2)k to reach Running (2/2) 
+
+🎉 Deployment successful!
+theia@theiadocker-hirewillieco:/home/project$ 
