@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**  
 - GitHub: [@Willie-Conway](https://github.com/Willie-Conway)
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: [[Linkedln](https://www.linkedin.com/in/willieconway/)]
 - Email: hire.willie.conway@gmail.com
 
 ---
