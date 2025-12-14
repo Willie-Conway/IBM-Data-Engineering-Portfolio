@@ -1,0 +1,6 @@
+Willie Conway's Elevator Pitch:
+
+"Hi, I’m Willie Conway. I’m a U.S. Marine Corps veteran and a certified software engineer with over 230 tech certifications in areas like data analytics, DevOps, and cybersecurity. 
+I’ve built full-stack applications, data pipelines, and cloud-integrated dashboards that solve real-world business problems. I’m currently pursuing my master’s in Computer Science 
+and Cybersecurity, and I’m looking for a remote role where I can contribute to innovative teams while continuing to grow in AI, cloud computing, or secure software development. I’d 
+love to learn more about the projects your team is working on and how I might support them."
