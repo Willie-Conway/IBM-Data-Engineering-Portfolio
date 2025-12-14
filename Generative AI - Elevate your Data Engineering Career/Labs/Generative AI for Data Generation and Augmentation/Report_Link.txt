@@ -1,0 +1,1 @@
+https://app.mostly.ai/api/v2/generators/45697669-414a-41fc-bddd-c8032e00d39d/tables/b208336f-6971-4e0f-b69f-2d9beb2ac7e2/report?modelType=TABULAR&slft=-0YmzylU45lc8vPWSjmiDT7zNBHgjz7lG6B6U3FZVrakNxvxZ10SXyKl1nblo2s6yqFdAYMeYSrWs7KPoiwR_pcTn6tQtixbuLF1kFpNwPmdgY1xezdo0HZ-yTKO2EW_
