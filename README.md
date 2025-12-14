@@ -8,6 +8,19 @@
 
 Welcome to my comprehensive portfolio documenting the completion of the **IBM Data Engineering Professional Certificate**! This repository showcases hands-on projects, labs, and assignments covering the full spectrum of data engineering concepts and tools.
 
+<p float="left">
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/8a4daa2d76f1d6c3501abcb496463c6853a0c0ea/BI%20Dashboards%20with%20IBM%20Cognos%20Analytics%20and%20Google%20Looker/Labs/Advanced%20Dashboard%20Capabilities%20in%20Cognos%20Analytics/Screenshots/L3%20Final%20Dashboard.pdf" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/8a4daa2d76f1d6c3501abcb496463c6853a0c0ea/BI%20Dashboards%20with%20IBM%20Cognos%20Analytics%20and%20Google%20Looker/Labs/Advanced%20Dashboard%20Capabilities%20in%20Google%20Looker%20Studio/Screenshots/Community_Property_Revenue_%26_Loyalty_Sales_Dashboard.pdf" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/8a4daa2d76f1d6c3501abcb496463c6853a0c0ea/BI%20Dashboards%20with%20IBM%20Cognos%20Analytics%20and%20Google%20Looker/Labs/Analyzing%20Data%20With%20Cognos%20Analytics/Screenshots/Billed%20Amount%20Industry%20Country%20Value.pdf" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/8a4daa2d76f1d6c3501abcb496463c6853a0c0ea/BI%20Dashboards%20with%20IBM%20Cognos%20Analytics%20and%20Google%20Looker/Labs/Creating%20and%20Configuring%20Visualizations%20in%20Reports%20with%20Google%20Looker%20Studio/Screenshots/Simple_Dashboard.pdf" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Database-Engineer/blob/main/Charts/Screenshot%202024-10-03%20203324.png" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/8a4daa2d76f1d6c3501abcb496463c6853a0c0ea/BI%20Dashboards%20with%20IBM%20Cognos%20Analytics%20and%20Google%20Looker/Labs/Different%20Methods%20for%20Creating%20Dashboard%20Visualizations%20with%20Cognos%20Analytics/Screenshots/B%20-%20Customer%20Sales.pdf" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/8a4daa2d76f1d6c3501abcb496463c6853a0c0ea/BI%20Dashboards%20with%20IBM%20Cognos%20Analytics%20and%20Google%20Looker/Labs/Getting%20Started%20with%20Cognos%20Analytics/Screenshots/A%20-%20Product%20Sales.pdf" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/8a4daa2d76f1d6c3501abcb496463c6853a0c0ea/BI%20Dashboards%20with%20IBM%20Cognos%20Analytics%20and%20Google%20Looker/Labs/Getting%20Started%20with%20Google%20Looker%20Studio/Screenshots/Loyalty_%26_Sales_Performance_Dashboard.pdf" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/8a4daa2d76f1d6c3501abcb496463c6853a0c0ea/BI%20Dashboards%20with%20IBM%20Cognos%20Analytics%20and%20Google%20Looker/Final%20Assignment/Creating%20Visualizations%20Using%20Google%20Looker%20Studio%20-%20Part%20B/Screenshots/SALES_%26_SERVICE%C2%A0_DASHBOARD.pdf" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/8a4daa2d76f1d6c3501abcb496463c6853a0c0ea/BI%20Dashboards%20with%20IBM%20Cognos%20Analytics%20and%20Google%20Looker/Final%20Assignment/Creating%20Visualizations%20Using%20IBM%20Cognos%20Analytics%20-%20Part%20A/Screenshots/Creating%20Visualizations%20Using%20IBM%20Cognos%20Analytics.pdf" width="300" />
+</p>
+
 ## 🏆 Professional Certificate Details
 
 - **Certificate**: IBM Data Engineering Professional Certificate
