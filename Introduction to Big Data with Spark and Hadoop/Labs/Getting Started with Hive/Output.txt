@@ -1,0 +1,29 @@
+theia@theiadocker-hirewillieco:/home/project$ chmod +x setup_hive.sh
+theia@theiadocker-hirewillieco:/home/project$ ./setup_hive.sh
+📦 Pulling Hive Docker image (apache/hive:4.0.0-alpha-1)...
+4.0.0-alpha-1: Pulling from apache/hive
+Digest: sha256:b06cfa5eb6e70a9ad6fbdbaef8369b7f4832b1adb892adce118d3eec474dc7ae
+Status: Image is up to date for apache/hive:4.0.0-alpha-1
+docker.io/apache/hive:4.0.0-alpha-1
+🚀 Starting Hive container (name: myhiveserver)...
+docker: Error response from daemon: Conflict. The container name "/myhiveserver" is already in use by container "123e7b7a8bfb4b2a7065bf571e706e87728c85e92728b9822473f464353a5b75". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
+⏳ Waiting for HiveServer2 to start up...
+🔗 Connecting to HiveServer2 via Beeline CLI...
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/opt/hive/lib/log4j-slf4j-impl-2.17.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/opt/hadoop/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/opt/hive/lib/log4j-slf4j-impl-2.17.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/opt/hadoop/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+Connecting to jdbc:hive2://localhost:10000/
+Connected to: Apache Hive (version 4.0.0-alpha-1)
+Driver: Hive JDBC (version 4.0.0-alpha-1)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+Beeline version 4.0.0-alpha-1 by Apache Hive
+0: jdbc:hive2://localhost:10000/> 

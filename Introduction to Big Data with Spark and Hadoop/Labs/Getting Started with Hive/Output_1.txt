@@ -1,0 +1,216 @@
+theia@theiadocker-hirewillieco:/home/project$ chmod +x setup_hive.sh
+theia@theiadocker-hirewillieco:/home/project$ ./setup_hive.sh
+📦 Pulling Hive Docker image (apache/hive:4.0.0-alpha-1)...
+4.0.0-alpha-1: Pulling from apache/hive
+Digest: sha256:b06cfa5eb6e70a9ad6fbdbaef8369b7f4832b1adb892adce118d3eec474dc7ae
+Status: Image is up to date for apache/hive:4.0.0-alpha-1
+docker.io/apache/hive:4.0.0-alpha-1
+🚀 Starting Hive container (name: myhiveserver)...
+docker: Error response from daemon: Conflict. The container name "/myhiveserver" is already in use by container "123e7b7a8bfb4b2a7065bf571e706e87728c85e92728b9822473f464353a5b75". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
+⏳ Waiting for HiveServer2 to start up...
+🔗 Connecting to HiveServer2 via Beeline CLI...
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/opt/hive/lib/log4j-slf4j-impl-2.17.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/opt/hadoop/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/opt/hive/lib/log4j-slf4j-impl-2.17.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/opt/hadoop/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+Connecting to jdbc:hive2://localhost:10000/
+Connected to: Apache Hive (version 4.0.0-alpha-1)
+Driver: Hive JDBC (version 4.0.0-alpha-1)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+Beeline version 4.0.0-alpha-1 by Apache Hive
+0: jdbc:hive2://localhost:10000/> theia@theiadocker-hirewillie
+theia@theiadocker-hirewillieco:/home/project$ chmod +x setup_hive.sh
+theia@theiadocker-hirewillieco:/home/project$ ./setup_hive.sh
+📦 Pulling Hive Docker image (apache/hive:4.0.0-alpha-1)...
+4.0.0-alpha-1: Pulling from apache/hive
+Digest: sha256:b06cfa5eb6e70a9ad6fbdbaef8369b7f4832b1adb892adce118d3eec474dc7ae
+Status: Image is up to date for apache/hive:4.0.0-alpha-1
+docker.io/apache/hive:4.0.0-alpha-1
+🚀 Starting Hive container (name: myhiveserver)...
+docker: Error response from daemon: Conflict. The container name "/myhiveserver" is already in use by container "123e7b7a8bfb4b2a7065bf571e706e87728c85e92728b9822473f464353a5b75". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
+⏳ Waiting for HiveServer2 to start up...
+🔗 Connecting to HiveServer2 via Beeline CLI...
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/opt/hive/lib/log4j-slf4j-impl-2.17.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/opt/hadoop/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/opt/hive/lib/log4j-slf4j-impl-2.17.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/opt/hadoop/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+Connecting to jdbc:hive2://localhost:10000/
+Connected to: Apache Hive (version 4.0.0-alpha-1)
+Driver: Hive JDBC (version 4.0.0-alpha-1)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+Beeline version 4.0.0-alpha-1 by Apache Hive
+0: jdbc:hive2://localhost:10000/> theia@theiadocker-hirewillie
+theia@theiadocker-hirewillieco:/home/project$ chmod +x setup_hive.sh
+theia@theiadocker-hirewillieco:/home/project$ ./setup_hive.sh
+📦 Pulling Hive Docker image (apache/hive:4.0.0-alpha-1)...
+4.0.0-alpha-1: Pulling from apache/hive
+Digest: sha256:b06cfa5eb6e70a9ad6fbdbaef8369b7f4832b1adb892adce118d3eec474dc7ae
+Status: Image is up to date for apache/hive:4.0.0-alpha-1
+docker.io/apache/hive:4.0.0-alpha-1
+🚀 Starting Hive container (name: myhiveserver)...
+docker: Error response from daemon: Conflict. The container name "/myhiveserver" is already in use by container "123e7b7a8bfb4b2a7065bf571e706e87728c85e92728b9822473f464353a5b75". You have to remove (or rename) that container to be able to reuse that name.
+
+Run 'docker run --help' for more information
+⏳ Waiting for HiveServer2 to start up...
+🔗 Connecting to HiveServer2 via Beeline CLI...
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/opt/hive/lib/log4j-slf4j-impl-2.17.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/opt/hadoop/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/opt/hive/lib/log4j-slf4j-impl-2.17.1.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/opt/hadoop/share/hadoop/common/lib/slf4j-log4j12-1.7.25.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+Connecting to jdbc:hive2://localhost:10000/
+Connected to: Apache Hive (version 4.0.0-alpha-1)
+Driver: Hive JDBC (version 4.0.0-alpha-1)
+Transaction isolation: TRANSACTION_REPEATABLE_READ
+Beeline version 4.0.0-alpha-1 by Apache Hive
+0: jdbc:hive2://localhost:10000/> -- Create Employee table
+0: jdbc:hive2://localhost:10000/> CREATE TABLE IF NOT EXISTS Employee (
+. . . . . . . . . . . . . . . . >     emp_id STRING,
+. . . . . . . . . . . . . . . . >     emp_name STRING,
+. . . . . . . . . . . . . . . . >     salary INT
+. . . . . . . . . . . . . . . . > )
+. . . . . . . . . . . . . . . . > ROW FORMAT DELIMITED
+. . . . . . . . . . . . . . . . > FIELDS TERMINATED BY ',';
+INFO  : Compiling command(queryId=hive_20250713205048_a70abcaa-8658-45dd-973a-c0c448d5a7fc): CREATE TABLE IF NOT EXISTS Employee (
+emp_id STRING,
+emp_name STRING,
+salary INT
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+INFO  : Semantic Analysis Completed (retrial = false)
+INFO  : Created Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20250713205048_a70abcaa-8658-45dd-973a-c0c448d5a7fc); Time taken: 1.963 seconds
+INFO  : Concurrency mode is disabled, not creating a lock manager
+INFO  : Executing command(queryId=hive_20250713205048_a70abcaa-8658-45dd-973a-c0c448d5a7fc): CREATE TABLE IF NOT EXISTS Employee (
+emp_id STRING,
+emp_name STRING,
+salary INT
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+INFO  : Starting task [Stage-0:DDL] in serial mode
+INFO  : Completed executing command(queryId=hive_20250713205048_a70abcaa-8658-45dd-973a-c0c448d5a7fc); Time taken: 0.762 seconds
+No rows affected (3.059 seconds)
+0: jdbc:hive2://localhost:10000/> 
+0: jdbc:hive2://localhost:10000/> -- Show all tables
+0: jdbc:hive2://localhost:10000/> SHOW TABLES;
+INFO  : Compiling command(queryId=hive_20250713205051_e7a3e86f-b51b-4ed7-b1dc-d26d63f56fb3): SHOW TABLES
+INFO  : Semantic Analysis Completed (retrial = false)
+INFO  : Created Hive schema: Schema(fieldSchemas:[FieldSchema(name:tab_name, type:string, comment:from deserializer)], properties:null)
+INFO  : Completed compiling command(queryId=hive_20250713205051_e7a3e86f-b51b-4ed7-b1dc-d26d63f56fb3); Time taken: 0.101 seconds
+INFO  : Concurrency mode is disabled, not creating a lock manager
+INFO  : Executing command(queryId=hive_20250713205051_e7a3e86f-b51b-4ed7-b1dc-d26d63f56fb3): SHOW TABLES
+INFO  : Starting task [Stage-0:DDL] in serial mode
+INFO  : Completed executing command(queryId=hive_20250713205051_e7a3e86f-b51b-4ed7-b1dc-d26d63f56fb3); Time taken: 0.115 seconds
++-----------+
+| tab_name  |
++-----------+
+| employee  |
++-----------+
+1 row selected (0.396 seconds)
+0: jdbc:hive2://localhost:10000/> 
+0: jdbc:hive2://localhost:10000/> -- Load data from mounted CSV file
+0: jdbc:hive2://localhost:10000/> LOAD DATA INPATH '/hive_custom_data/emp.csv' INTO TABLE Employee;
+INFO  : Compiling command(queryId=hive_20250713205051_c895dac9-7fd4-4e14-a12a-174d80775409): LOAD DATA INPATH '/hive_custom_data/emp.csv' INTO TABLE Employee
+INFO  : Semantic Analysis Completed (retrial = false)
+INFO  : Created Hive schema: Schema(fieldSchemas:null, properties:null)
+INFO  : Completed compiling command(queryId=hive_20250713205051_c895dac9-7fd4-4e14-a12a-174d80775409); Time taken: 0.304 seconds
+INFO  : Concurrency mode is disabled, not creating a lock manager
+INFO  : Executing command(queryId=hive_20250713205051_c895dac9-7fd4-4e14-a12a-174d80775409): LOAD DATA INPATH '/hive_custom_data/emp.csv' INTO TABLE Employee
+INFO  : Starting task [Stage-0:MOVE] in serial mode
+INFO  : Loading data to table default.employee from file:/hive_custom_data/emp.csv
+INFO  : Starting task [Stage-1:STATS] in serial mode
+INFO  : Executing stats task
+INFO  : Table default.employee stats: [numFiles=1, numRows=0, totalSize=854, rawDataSize=0, numFilesErasureCoded=0]
+INFO  : Completed executing command(queryId=hive_20250713205051_c895dac9-7fd4-4e14-a12a-174d80775409); Time taken: 0.402 seconds
+No rows affected (0.723 seconds)
+0: jdbc:hive2://localhost:10000/> 
+0: jdbc:hive2://localhost:10000/> -- View contents of the table
+0: jdbc:hive2://localhost:10000/> SELECT * FROM Employee;
+INFO  : Compiling command(queryId=hive_20250713205052_16797702-5054-4836-883c-9eda68888293): SELECT * FROM Employee
+INFO  : No Stats for default@employee, Columns: emp_name, salary, emp_id
+INFO  : Semantic Analysis Completed (retrial = false)
+INFO  : Created Hive schema: Schema(fieldSchemas:[FieldSchema(name:employee.emp_id, type:string, comment:null), FieldSchema(name:employee.emp_name, type:string, comment:null), FieldSchema(name:employee.salary, type:int, comment:null)], properties:null)
+INFO  : Completed compiling command(queryId=hive_20250713205052_16797702-5054-4836-883c-9eda68888293); Time taken: 4.804 seconds
+INFO  : Concurrency mode is disabled, not creating a lock manager
+INFO  : Executing command(queryId=hive_20250713205052_16797702-5054-4836-883c-9eda68888293): SELECT * FROM Employee
+INFO  : Completed executing command(queryId=hive_20250713205052_16797702-5054-4836-883c-9eda68888293); Time taken: 0.001 seconds
++------------------+--------------------+------------------+
+| employee.emp_id  | employee.emp_name  | employee.salary  |
++------------------+--------------------+------------------+
+| emp_id           | emp_name           | NULL             |
+| 198              | Donald             | 2600             |
+| 199              | Douglas            | 2600             |
+| 200              | Jennifer           | 4400             |
+| 201              | Michael            | 13000            |
+| 202              | Pat                | 6000             |
+| 203              | Susan              | 6500             |
+| 204              | Hermann            | 10000            |
+| 205              | Shelley            | 12008            |
+| 206              | William            | 8300             |
+| 100              | Steven             | 24000            |
+| 101              | Neena              | 17000            |
+| 102              | Lex                | 17000            |
+| 103              | Alexander          | 9000             |
+| 104              | Bruce              | 6000             |
+| 105              | David              | 4800             |
+| 106              | Valli              | 4800             |
+| 107              | Diana              | 4200             |
+| 108              | Nancy              | 12008            |
+| 109              | Daniel             | 9000             |
+| 110              | John               | 8200             |
+| 111              | Ismael             | 7700             |
+| 112              | Jose Manuel        | 7800             |
+| 113              | Luis               | 6900             |
+| 114              | Den                | 11000            |
+| 115              | Alexander          | 3100             |
+| 116              | Shelli             | 2900             |
+| 117              | Sigal              | 2800             |
+| 118              | Guy                | 2600             |
+| 119              | Karen              | 2500             |
+| 120              | Matthew            | 8000             |
+| 121              | Adam               | 8200             |
+| 122              | Payam              | 7900             |
+| 123              | Shanta             | 6500             |
+| 124              | Kevin              | 5800             |
+| 125              | Julia              | 3200             |
+| 126              | Irene              | 2700             |
+| 127              | James              | 2400             |
+| 128              | Steven             | 2200             |
+| 129              | Laura              | 3300             |
+| 130              | Mozhe              | 2800             |
+| 131              | James              | 2500             |
+| 132              | TJ                 | 2100             |
+| 133              | Jason              | 3300             |
+| 134              | Michael            | 2900             |
+| 135              | Ki                 | 2400             |
+| 136              | Hazel              | 2200             |
+| 137              | Renske             | 3600             |
+| 138              | Stephen            | 3200             |
+| 139              | John               | 2700             |
+| 140              | Joshua             | 2500             |
++------------------+--------------------+------------------+
+51 rows selected (4.865 seconds)
+0: jdbc:hive2://localhost:10000/> 
