@@ -1,0 +1,21 @@
+
+training> db.bigdata.createIndex({"balance":1})
+
+training> db.bigdata.createIndex({"balance":1})
+balance_1
+training> db.bigdata.find({"balance":10000}).explain("executionStats").executionSt
+
+training> db.bigdata.createIndex({"balance":1})
+balance_1
+training> db.bigdata.find({"balance":10000}).explain("executionStats").executionStats.executionTimeMillis
+1
+training> db.bigdata.dropIndex({"balance":1})
+{ nIndexesWas: 2, ok: 1 }
+training> db.bigdata.find({"balance": 10000}).explain("executionStats").executionStats.executionTimeMillis
+160
+training> exit
+theia@theiadocker-hirewillieco:/home/project$ 
+
+
+
+
