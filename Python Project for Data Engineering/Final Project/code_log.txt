@@ -1,0 +1,8 @@
+2025-Jun-16-23:52:39 : Preliminaries complete. Initiating ETL process
+2025-Jun-16-23:52:40 : Data extraction complete. Initiating Transformation process
+2025-Jun-16-23:52:40 : Data transformation complete. Initiating Loading process
+2025-Jun-16-23:52:40 : Data saved to CSV file: ./Largest_banks_data_20250616_235239.csv
+2025-Jun-16-23:52:40 : SQL Connection initiated
+2025-Jun-16-23:52:40 : Data loaded to Database as a table, Executing queries
+2025-Jun-16-23:52:40 : Process Complete
+2025-Jun-16-23:52:40 : Server Connection closed
