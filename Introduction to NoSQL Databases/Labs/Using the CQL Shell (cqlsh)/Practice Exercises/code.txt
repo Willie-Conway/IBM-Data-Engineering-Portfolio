@@ -1,0 +1,14 @@
+root@cqlsh> show version
+[cqlsh 6.0.0 | Cassandra 5.0-beta1 | CQL spec 3.4.7 | Native protocol v5]
+root@cqlsh> show host
+Connected to Test Cluster at 172.21.147.169:9042
+root@cqlsh> describe keyspaces
+
+system       system_distributed  system_traces  system_virtual_schema
+system_auth  system_schema       system_views 
+
+root@cqlsh> exit
+theia@theiadocker-hirewillieco:/home/project$ 
+
+
+
