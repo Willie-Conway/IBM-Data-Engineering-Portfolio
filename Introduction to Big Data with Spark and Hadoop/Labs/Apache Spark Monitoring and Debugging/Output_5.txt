@@ -1,0 +1,457 @@
+25/07/14 17:33:19 INFO Executor: Running task 12.0 in stage 16.0 (TID 172)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 1 ms
+25/07/14 17:33:19 INFO Executor: Finished task 8.0 in stage 16.0 (TID 168). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 3.0 in stage 16.0 (TID 163). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 11.0 in stage 16.0 (TID 171). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO Executor: Running task 13.0 in stage 16.0 (TID 173)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 37 ms
+25/07/14 17:33:19 INFO Executor: Running task 15.0 in stage 16.0 (TID 175)
+25/07/14 17:33:19 INFO Executor: Finished task 5.0 in stage 16.0 (TID 165). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 16.0 in stage 16.0 (TID 176) (spark-master, executor driver, partition 141, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Finished task 2.0 in stage 16.0 (TID 162). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 17.0 in stage 16.0 (TID 177) (spark-master, executor driver, partition 142, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Running task 17.0 in stage 16.0 (TID 177)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 18.0 in stage 16.0 (TID 178) (spark-master, executor driver, partition 143, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 19.0 in stage 16.0 (TID 179) (spark-master, executor driver, partition 144, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Finished task 15.0 in stage 16.0 (TID 175). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Running task 19.0 in stage 16.0 (TID 179)
+25/07/14 17:33:19 INFO Executor: Running task 14.0 in stage 16.0 (TID 174)
+25/07/14 17:33:19 INFO Executor: Finished task 10.0 in stage 16.0 (TID 170). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Finished task 17.0 in stage 16.0 (TID 177). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Running task 16.0 in stage 16.0 (TID 176)
+25/07/14 17:33:19 INFO Executor: Finished task 13.0 in stage 16.0 (TID 173). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Running task 18.0 in stage 16.0 (TID 178)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 20.0 in stage 16.0 (TID 180) (spark-master, executor driver, partition 145, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Finished task 4.0 in stage 16.0 (TID 164). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO Executor: Finished task 1.0 in stage 16.0 (TID 161). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 16 ms
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 21.0 in stage 16.0 (TID 181) (spark-master, executor driver, partition 146, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 1 ms
+25/07/14 17:33:19 INFO Executor: Finished task 12.0 in stage 16.0 (TID 172). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 18 ms
+25/07/14 17:33:19 INFO Executor: Running task 21.0 in stage 16.0 (TID 181)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 22.0 in stage 16.0 (TID 182) (spark-master, executor driver, partition 147, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 23.0 in stage 16.0 (TID 183) (spark-master, executor driver, partition 148, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 24.0 in stage 16.0 (TID 184) (spark-master, executor driver, partition 149, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Running task 24.0 in stage 16.0 (TID 184)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 25.0 in stage 16.0 (TID 185) (spark-master, executor driver, partition 150, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 18 ms
+25/07/14 17:33:19 INFO Executor: Running task 23.0 in stage 16.0 (TID 183)
+25/07/14 17:33:19 INFO Executor: Running task 20.0 in stage 16.0 (TID 180)
+25/07/14 17:33:19 INFO Executor: Running task 22.0 in stage 16.0 (TID 182)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 16 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO Executor: Running task 25.0 in stage 16.0 (TID 185)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 20 ms
+25/07/14 17:33:19 INFO Executor: Finished task 9.0 in stage 16.0 (TID 169). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 19.0 in stage 16.0 (TID 179). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 6.0 in stage 16.0 (TID 166). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 16.0 in stage 16.0 (TID 176). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 0.0 in stage 16.0 (TID 160). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 26.0 in stage 16.0 (TID 186) (spark-master, executor driver, partition 151, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Running task 26.0 in stage 16.0 (TID 186)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 27.0 in stage 16.0 (TID 187) (spark-master, executor driver, partition 152, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 5.0 in stage 16.0 (TID 165) in 240 ms on spark-master (executor driver) (1/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 2.0 in stage 16.0 (TID 162) in 242 ms on spark-master (executor driver) (2/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 15.0 in stage 16.0 (TID 175) in 239 ms on spark-master (executor driver) (3/75)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Finished task 21.0 in stage 16.0 (TID 181). 4353 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 26.0 in stage 16.0 (TID 186). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 11.0 in stage 16.0 (TID 171) in 260 ms on spark-master (executor driver) (4/75)
+25/07/14 17:33:19 INFO Executor: Finished task 14.0 in stage 16.0 (TID 174). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 3.0 in stage 16.0 (TID 163) in 262 ms on spark-master (executor driver) (5/75)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Finished task 7.0 in stage 16.0 (TID 167). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Finished task 25.0 in stage 16.0 (TID 185). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 20.0 in stage 16.0 (TID 180). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 13.0 in stage 16.0 (TID 173) in 261 ms on spark-master (executor driver) (6/75)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 4.0 in stage 16.0 (TID 164) in 302 ms on spark-master (executor driver) (7/75)
+25/07/14 17:33:19 INFO Executor: Running task 27.0 in stage 16.0 (TID 187)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 8.0 in stage 16.0 (TID 168) in 319 ms on spark-master (executor driver) (8/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 12.0 in stage 16.0 (TID 172) in 318 ms on spark-master (executor driver) (9/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 1.0 in stage 16.0 (TID 161) in 340 ms on spark-master (executor driver) (10/75)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Finished task 18.0 in stage 16.0 (TID 178). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 22.0 in stage 16.0 (TID 182). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 28.0 in stage 16.0 (TID 188) (spark-master, executor driver, partition 153, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Finished task 23.0 in stage 16.0 (TID 183). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Running task 28.0 in stage 16.0 (TID 188)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 29.0 in stage 16.0 (TID 189) (spark-master, executor driver, partition 154, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 30.0 in stage 16.0 (TID 190) (spark-master, executor driver, partition 155, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Running task 30.0 in stage 16.0 (TID 190)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 31.0 in stage 16.0 (TID 191) (spark-master, executor driver, partition 156, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Running task 31.0 in stage 16.0 (TID 191)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 32.0 in stage 16.0 (TID 192) (spark-master, executor driver, partition 157, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 10.0 in stage 16.0 (TID 170) in 341 ms on spark-master (executor driver) (11/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 9.0 in stage 16.0 (TID 169) in 342 ms on spark-master (executor driver) (12/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 19.0 in stage 16.0 (TID 179) in 262 ms on spark-master (executor driver) (13/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 6.0 in stage 16.0 (TID 166) in 343 ms on spark-master (executor driver) (14/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 16.0 in stage 16.0 (TID 176) in 264 ms on spark-master (executor driver) (15/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 0.0 in stage 16.0 (TID 160) in 363 ms on spark-master (executor driver) (16/75)
+25/07/14 17:33:19 INFO Executor: Running task 32.0 in stage 16.0 (TID 192)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 33.0 in stage 16.0 (TID 193) (spark-master, executor driver, partition 158, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 34.0 in stage 16.0 (TID 194) (spark-master, executor driver, partition 159, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 35.0 in stage 16.0 (TID 195) (spark-master, executor driver, partition 160, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 36.0 in stage 16.0 (TID 196) (spark-master, executor driver, partition 161, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 37.0 in stage 16.0 (TID 197) (spark-master, executor driver, partition 162, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 38.0 in stage 16.0 (TID 198) (spark-master, executor driver, partition 163, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 39.0 in stage 16.0 (TID 199) (spark-master, executor driver, partition 164, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 40.0 in stage 16.0 (TID 200) (spark-master, executor driver, partition 165, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 41.0 in stage 16.0 (TID 201) (spark-master, executor driver, partition 166, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Running task 29.0 in stage 16.0 (TID 189)
+25/07/14 17:33:19 INFO Executor: Running task 37.0 in stage 16.0 (TID 197)
+25/07/14 17:33:19 INFO Executor: Running task 39.0 in stage 16.0 (TID 199)
+25/07/14 17:33:19 INFO Executor: Running task 35.0 in stage 16.0 (TID 195)
+25/07/14 17:33:19 INFO Executor: Finished task 32.0 in stage 16.0 (TID 192). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 24.0 in stage 16.0 (TID 184). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Running task 36.0 in stage 16.0 (TID 196)
+25/07/14 17:33:19 INFO Executor: Running task 38.0 in stage 16.0 (TID 198)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 17.0 in stage 16.0 (TID 177) in 319 ms on spark-master (executor driver) (17/75)
+25/07/14 17:33:19 INFO Executor: Running task 33.0 in stage 16.0 (TID 193)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 21.0 in stage 16.0 (TID 181) in 239 ms on spark-master (executor driver) (18/75)
+25/07/14 17:33:19 INFO Executor: Running task 40.0 in stage 16.0 (TID 200)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 26.0 in stage 16.0 (TID 186) in 179 ms on spark-master (executor driver) (19/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 14.0 in stage 16.0 (TID 174) in 398 ms on spark-master (executor driver) (20/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 7.0 in stage 16.0 (TID 167) in 400 ms on spark-master (executor driver) (21/75)
+25/07/14 17:33:19 INFO Executor: Finished task 30.0 in stage 16.0 (TID 190). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Running task 34.0 in stage 16.0 (TID 194)
+25/07/14 17:33:19 INFO Executor: Running task 41.0 in stage 16.0 (TID 201)
+25/07/14 17:33:19 INFO Executor: Finished task 28.0 in stage 16.0 (TID 188). 4353 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Finished task 31.0 in stage 16.0 (TID 191). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 35.0 in stage 16.0 (TID 195). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 36.0 in stage 16.0 (TID 196). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 27.0 in stage 16.0 (TID 187). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 25.0 in stage 16.0 (TID 185) in 220 ms on spark-master (executor driver) (22/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 23.0 in stage 16.0 (TID 183) in 299 ms on spark-master (executor driver) (23/75)
+25/07/14 17:33:19 INFO Executor: Finished task 37.0 in stage 16.0 (TID 197). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Finished task 33.0 in stage 16.0 (TID 193). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 29.0 in stage 16.0 (TID 189). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Finished task 41.0 in stage 16.0 (TID 201). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 18 ms
+25/07/14 17:33:19 INFO Executor: Finished task 40.0 in stage 16.0 (TID 200). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 42.0 in stage 16.0 (TID 202) (spark-master, executor driver, partition 167, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Running task 42.0 in stage 16.0 (TID 202)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 43.0 in stage 16.0 (TID 203) (spark-master, executor driver, partition 168, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Finished task 34.0 in stage 16.0 (TID 194). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Running task 43.0 in stage 16.0 (TID 203)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 44.0 in stage 16.0 (TID 204) (spark-master, executor driver, partition 169, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 45.0 in stage 16.0 (TID 205) (spark-master, executor driver, partition 170, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 18.0 in stage 16.0 (TID 178) in 458 ms on spark-master (executor driver) (24/75)
+25/07/14 17:33:19 INFO Executor: Running task 45.0 in stage 16.0 (TID 205)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 32.0 in stage 16.0 (TID 192) in 199 ms on spark-master (executor driver) (25/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 30.0 in stage 16.0 (TID 190) in 200 ms on spark-master (executor driver) (26/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 28.0 in stage 16.0 (TID 188) in 201 ms on spark-master (executor driver) (27/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 31.0 in stage 16.0 (TID 191) in 200 ms on spark-master (executor driver) (28/75)
+25/07/14 17:33:19 INFO Executor: Running task 44.0 in stage 16.0 (TID 204)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Finished task 43.0 in stage 16.0 (TID 203). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 45.0 in stage 16.0 (TID 205). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 42.0 in stage 16.0 (TID 202). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 22.0 in stage 16.0 (TID 182) in 420 ms on spark-master (executor driver) (29/75)
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 24.0 in stage 16.0 (TID 184) in 418 ms on spark-master (executor driver) (30/75)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 46.0 in stage 16.0 (TID 206) (spark-master, executor driver, partition 171, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Finished task 20.0 in stage 16.0 (TID 180) in 461 ms on spark-master (executor driver) (31/75)
+25/07/14 17:33:19 INFO Executor: Finished task 44.0 in stage 16.0 (TID 204). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Running task 46.0 in stage 16.0 (TID 206)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 47.0 in stage 16.0 (TID 207) (spark-master, executor driver, partition 172, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Running task 47.0 in stage 16.0 (TID 207)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 48.0 in stage 16.0 (TID 208) (spark-master, executor driver, partition 173, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Running task 48.0 in stage 16.0 (TID 208)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 49.0 in stage 16.0 (TID 209) (spark-master, executor driver, partition 174, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 50.0 in stage 16.0 (TID 210) (spark-master, executor driver, partition 175, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 51.0 in stage 16.0 (TID 211) (spark-master, executor driver, partition 176, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Running task 51.0 in stage 16.0 (TID 211)
+25/07/14 17:33:19 INFO Executor: Running task 49.0 in stage 16.0 (TID 209)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 52.0 in stage 16.0 (TID 212) (spark-master, executor driver, partition 177, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO Executor: Running task 50.0 in stage 16.0 (TID 210)
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 53.0 in stage 16.0 (TID 213) (spark-master, executor driver, partition 178, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 54.0 in stage 16.0 (TID 214) (spark-master, executor driver, partition 179, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 55.0 in stage 16.0 (TID 215) (spark-master, executor driver, partition 180, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 56.0 in stage 16.0 (TID 216) (spark-master, executor driver, partition 181, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 57.0 in stage 16.0 (TID 217) (spark-master, executor driver, partition 182, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Running task 56.0 in stage 16.0 (TID 216)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 18 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 18 ms
+25/07/14 17:33:19 INFO Executor: Running task 53.0 in stage 16.0 (TID 213)
+25/07/14 17:33:19 INFO Executor: Finished task 39.0 in stage 16.0 (TID 199). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 38.0 in stage 16.0 (TID 198). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 51.0 in stage 16.0 (TID 211). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Running task 52.0 in stage 16.0 (TID 212)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 19 ms
+25/07/14 17:33:19 INFO Executor: Finished task 46.0 in stage 16.0 (TID 206). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 48.0 in stage 16.0 (TID 208). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Running task 54.0 in stage 16.0 (TID 214)
+25/07/14 17:33:19 INFO Executor: Finished task 50.0 in stage 16.0 (TID 210). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Running task 57.0 in stage 16.0 (TID 217)
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Running task 55.0 in stage 16.0 (TID 215)
+25/07/14 17:33:19 INFO Executor: Finished task 54.0 in stage 16.0 (TID 214). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:19 INFO Executor: Finished task 52.0 in stage 16.0 (TID 212). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO Executor: Finished task 47.0 in stage 16.0 (TID 207). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO Executor: Finished task 56.0 in stage 16.0 (TID 216). 4310 bytes result sent to driver
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 60 ms
+25/07/14 17:33:19 INFO TaskSetManager: Starting task 58.0 in stage 16.0 (TID 218) (spark-master, executor driver, partition 183, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:19 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 35 ms
+25/07/14 17:33:20 INFO Executor: Finished task 57.0 in stage 16.0 (TID 217). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO Executor: Finished task 55.0 in stage 16.0 (TID 215). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO Executor: Running task 58.0 in stage 16.0 (TID 218)
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 59.0 in stage 16.0 (TID 219) (spark-master, executor driver, partition 184, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO Executor: Running task 59.0 in stage 16.0 (TID 219)
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 60.0 in stage 16.0 (TID 220) (spark-master, executor driver, partition 185, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 61.0 in stage 16.0 (TID 221) (spark-master, executor driver, partition 186, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO Executor: Finished task 49.0 in stage 16.0 (TID 209). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO Executor: Running task 60.0 in stage 16.0 (TID 220)
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO Executor: Running task 61.0 in stage 16.0 (TID 221)
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 62.0 in stage 16.0 (TID 222) (spark-master, executor driver, partition 187, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO Executor: Finished task 53.0 in stage 16.0 (TID 213). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO Executor: Finished task 60.0 in stage 16.0 (TID 220). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 2 ms
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 27.0 in stage 16.0 (TID 187) in 677 ms on spark-master (executor driver) (32/75)
+25/07/14 17:33:20 INFO Executor: Running task 62.0 in stage 16.0 (TID 222)
+25/07/14 17:33:20 INFO Executor: Finished task 61.0 in stage 16.0 (TID 221). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 33.0 in stage 16.0 (TID 193) in 540 ms on spark-master (executor driver) (33/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 35.0 in stage 16.0 (TID 195) in 540 ms on spark-master (executor driver) (34/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 41.0 in stage 16.0 (TID 201) in 538 ms on spark-master (executor driver) (35/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 29.0 in stage 16.0 (TID 189) in 560 ms on spark-master (executor driver) (36/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 40.0 in stage 16.0 (TID 200) in 538 ms on spark-master (executor driver) (37/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 43.0 in stage 16.0 (TID 203) in 380 ms on spark-master (executor driver) (38/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 45.0 in stage 16.0 (TID 205) in 362 ms on spark-master (executor driver) (39/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 42.0 in stage 16.0 (TID 202) in 381 ms on spark-master (executor driver) (40/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 44.0 in stage 16.0 (TID 204) in 380 ms on spark-master (executor driver) (41/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 39.0 in stage 16.0 (TID 199) in 540 ms on spark-master (executor driver) (42/75)
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 37.0 in stage 16.0 (TID 197) in 564 ms on spark-master (executor driver) (43/75)
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO Executor: Finished task 62.0 in stage 16.0 (TID 222). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO Executor: Finished task 59.0 in stage 16.0 (TID 219). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 51.0 in stage 16.0 (TID 211) in 320 ms on spark-master (executor driver) (44/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 36.0 in stage 16.0 (TID 196) in 581 ms on spark-master (executor driver) (45/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 46.0 in stage 16.0 (TID 206) in 342 ms on spark-master (executor driver) (46/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 38.0 in stage 16.0 (TID 198) in 581 ms on spark-master (executor driver) (47/75)
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 63.0 in stage 16.0 (TID 223) (spark-master, executor driver, partition 188, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 34.0 in stage 16.0 (TID 194) in 583 ms on spark-master (executor driver) (48/75)
+25/07/14 17:33:20 INFO Executor: Running task 63.0 in stage 16.0 (TID 223)
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 64.0 in stage 16.0 (TID 224) (spark-master, executor driver, partition 189, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 65.0 in stage 16.0 (TID 225) (spark-master, executor driver, partition 190, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 48.0 in stage 16.0 (TID 208) in 340 ms on spark-master (executor driver) (49/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 50.0 in stage 16.0 (TID 210) in 339 ms on spark-master (executor driver) (50/75)
+25/07/14 17:33:20 INFO Executor: Running task 65.0 in stage 16.0 (TID 225)
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 66.0 in stage 16.0 (TID 226) (spark-master, executor driver, partition 191, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO Executor: Running task 66.0 in stage 16.0 (TID 226)
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 67.0 in stage 16.0 (TID 227) (spark-master, executor driver, partition 192, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO Executor: Running task 67.0 in stage 16.0 (TID 227)
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 68.0 in stage 16.0 (TID 228) (spark-master, executor driver, partition 193, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 16 ms
+25/07/14 17:33:20 INFO Executor: Finished task 58.0 in stage 16.0 (TID 218). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO Executor: Running task 64.0 in stage 16.0 (TID 224)
+25/07/14 17:33:20 INFO Executor: Running task 68.0 in stage 16.0 (TID 228)
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 47.0 in stage 16.0 (TID 207) in 380 ms on spark-master (executor driver) (51/75)
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO Executor: Finished task 64.0 in stage 16.0 (TID 224). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO Executor: Finished task 68.0 in stage 16.0 (TID 228). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 69.0 in stage 16.0 (TID 229) (spark-master, executor driver, partition 194, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 52.0 in stage 16.0 (TID 212) in 418 ms on spark-master (executor driver) (52/75)
+25/07/14 17:33:20 INFO Executor: Running task 69.0 in stage 16.0 (TID 229)
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 54.0 in stage 16.0 (TID 214) in 400 ms on spark-master (executor driver) (53/75)
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 70.0 in stage 16.0 (TID 230) (spark-master, executor driver, partition 195, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO Executor: Finished task 67.0 in stage 16.0 (TID 227). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO Executor: Finished task 63.0 in stage 16.0 (TID 223). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 21 ms
+25/07/14 17:33:20 INFO Executor: Running task 70.0 in stage 16.0 (TID 230)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 57.0 in stage 16.0 (TID 217) in 424 ms on spark-master (executor driver) (54/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 56.0 in stage 16.0 (TID 216) in 424 ms on spark-master (executor driver) (55/75)
+25/07/14 17:33:20 INFO Executor: Finished task 65.0 in stage 16.0 (TID 225). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO Executor: Finished task 66.0 in stage 16.0 (TID 226). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO Executor: Finished task 69.0 in stage 16.0 (TID 229). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 71.0 in stage 16.0 (TID 231) (spark-master, executor driver, partition 196, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO Executor: Finished task 70.0 in stage 16.0 (TID 230). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO Executor: Running task 71.0 in stage 16.0 (TID 231)
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 72.0 in stage 16.0 (TID 232) (spark-master, executor driver, partition 197, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO Executor: Running task 72.0 in stage 16.0 (TID 232)
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 73.0 in stage 16.0 (TID 233) (spark-master, executor driver, partition 198, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO TaskSetManager: Starting task 74.0 in stage 16.0 (TID 234) (spark-master, executor driver, partition 199, PROCESS_LOCAL, 4453 bytes) taskResourceAssignments Map()
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 55.0 in stage 16.0 (TID 215) in 482 ms on spark-master (executor driver) (56/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 60.0 in stage 16.0 (TID 220) in 262 ms on spark-master (executor driver) (57/75)
+25/07/14 17:33:20 INFO Executor: Running task 74.0 in stage 16.0 (TID 234)
+25/07/14 17:33:20 INFO Executor: Running task 73.0 in stage 16.0 (TID 233)
+25/07/14 17:33:20 INFO Executor: Finished task 71.0 in stage 16.0 (TID 231). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO Executor: Finished task 74.0 in stage 16.0 (TID 234). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) remote blocks
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/07/14 17:33:20 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 17 ms
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 53.0 in stage 16.0 (TID 213) in 542 ms on spark-master (executor driver) (58/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 59.0 in stage 16.0 (TID 219) in 321 ms on spark-master (executor driver) (59/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 58.0 in stage 16.0 (TID 218) in 500 ms on spark-master (executor driver) (60/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 64.0 in stage 16.0 (TID 224) in 223 ms on spark-master (executor driver) (61/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 68.0 in stage 16.0 (TID 228) in 236 ms on spark-master (executor driver) (62/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 61.0 in stage 16.0 (TID 221) in 338 ms on spark-master (executor driver) (63/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 62.0 in stage 16.0 (TID 222) in 320 ms on spark-master (executor driver) (64/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 49.0 in stage 16.0 (TID 209) in 580 ms on spark-master (executor driver) (65/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 63.0 in stage 16.0 (TID 223) in 257 ms on spark-master (executor driver) (66/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 66.0 in stage 16.0 (TID 226) in 239 ms on spark-master (executor driver) (67/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 69.0 in stage 16.0 (TID 229) in 161 ms on spark-master (executor driver) (68/75)
+25/07/14 17:33:20 INFO Executor: Finished task 73.0 in stage 16.0 (TID 233). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 65.0 in stage 16.0 (TID 225) in 240 ms on spark-master (executor driver) (69/75)
+25/07/14 17:33:20 INFO Executor: Finished task 72.0 in stage 16.0 (TID 232). 4310 bytes result sent to driver
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 71.0 in stage 16.0 (TID 231) in 100 ms on spark-master (executor driver) (70/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 73.0 in stage 16.0 (TID 233) in 80 ms on spark-master (executor driver) (71/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 72.0 in stage 16.0 (TID 232) in 83 ms on spark-master (executor driver) (72/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 70.0 in stage 16.0 (TID 230) in 178 ms on spark-master (executor driver) (73/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 67.0 in stage 16.0 (TID 227) in 256 ms on spark-master (executor driver) (74/75)
+25/07/14 17:33:20 INFO TaskSetManager: Finished task 74.0 in stage 16.0 (TID 234) in 98 ms on spark-master (executor driver) (75/75)
+25/07/14 17:33:20 INFO TaskSchedulerImpl: Removed TaskSet 16.0, whose tasks have all completed, from pool 
+25/07/14 17:33:20 INFO DAGScheduler: ResultStage 16 (showString at NativeMethodAccessorImpl.java:0) finished in 1.404 s
+25/07/14 17:33:20 INFO DAGScheduler: Job 6 is finished. Cancelling potential speculative or zombie tasks for this job
+25/07/14 17:33:20 INFO TaskSchedulerImpl: Killing all running tasks in stage 16: Stage finished
+25/07/14 17:33:20 INFO DAGScheduler: Job 6 finished: showString at NativeMethodAccessorImpl.java:0, took 1.482358 s
+25/07/14 17:33:20 INFO CodeGenerator: Code generated in 48.694054 ms
++---------+------------------+-------------+
+|cylinders|avg(mpg)          |first(engine)|
++---------+------------------+-------------+
+|6        |19.985714285714288|V6           |
+|3        |20.55             |other        |
+|5        |27.366666666666664|other        |
+|4        |29.286764705882348|inline-four  |
+|8        |14.963106796116506|V8           |
++---------+------------------+-------------+
+
+25/07/14 17:33:20 INFO BlockManagerInfo: Removed broadcast_9_piece0 on spark-master:35827 in memory (size: 15.7 KiB, free: 408.7 MiB)
+25/07/14 17:33:20 INFO BlockManagerInfo: Removed broadcast_8_piece0 on spark-master:35827 in memory (size: 15.7 KiB, free: 408.7 MiB)
+25/07/14 17:33:20 INFO SparkContext: Invoking stop() from shutdown hook
+25/07/14 17:33:20 INFO BlockManagerInfo: Removed broadcast_10_piece0 on spark-master:35827 in memory (size: 15.7 KiB, free: 408.7 MiB)
+25/07/14 17:33:20 INFO BlockManagerInfo: Removed broadcast_11_piece0 on spark-master:35827 in memory (size: 15.7 KiB, free: 408.7 MiB)
+25/07/14 17:33:20 INFO SparkUI: Stopped Spark web UI at http://spark-master:4041
+25/07/14 17:33:21 INFO MapOutputTrackerMasterEndpoint: MapOutputTrackerMasterEndpoint stopped!
+25/07/14 17:33:21 INFO MemoryStore: MemoryStore cleared
+25/07/14 17:33:21 INFO BlockManager: BlockManager stopped
+25/07/14 17:33:21 INFO BlockManagerMaster: BlockManagerMaster stopped
+25/07/14 17:33:21 INFO OutputCommitCoordinator$OutputCommitCoordinatorEndpoint: OutputCommitCoordinator stopped!
+25/07/14 17:33:21 INFO SparkContext: Successfully stopped SparkContext
+25/07/14 17:33:21 INFO ShutdownHookManager: Shutdown hook called
+25/07/14 17:33:21 INFO ShutdownHookManager: Deleting directory /tmp/spark-179e32fc-f706-4280-9a40-6ac0f28b4654
+25/07/14 17:33:21 INFO ShutdownHookManager: Deleting directory /tmp/spark-179e32fc-f706-4280-9a40-6ac0f28b4654/pyspark-500608c4-afd4-4cc5-a383-d2bced819a62
+25/07/14 17:33:21 INFO ShutdownHookManager: Deleting directory /tmp/spark-d18fa05b-0771-41e4-a849-1361270aa22a
+
+✅  FIXED job completed successfully!
+📈  Refresh the UI (port 4040) to see the new job marked *Succeeded*.
+🎉  All done — feel free to experiment further!
+theia@theiadocker-hirewillieco:/home/project$ 

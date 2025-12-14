@@ -1,0 +1,8 @@
+theia@theiadocker-hirewillieco:/home/project$ chmod +x add_worker.sh
+theia@theiadocker-hirewillieco:/home/project$ ./add_worker.sh
+🔍 Checking if spark-worker-2 already exists...
+🚀 Starting spark-worker-2 container...
+2d4b50af39e6f367d237063acf1a9b25eec21fb7489e4376c246cb5b9df52fae
+✅ spark-worker-2 is running.
+theia@theiadocker-hirewillieco:/home/project$ 
+

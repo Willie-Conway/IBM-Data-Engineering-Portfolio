@@ -1,0 +1,91 @@
+theia@theiadocker-hirewillieco:/home/project$ docker exec -it spark-master /spark/bin/pyspark --master spark://spark-master:7077
+Python 3.7.10 (default, Mar  2 2021, 09:06:08) 
+[GCC 8.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+25/07/14 17:15:41 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Welcome to
+      ____              __
+     / __/__  ___ _____/ /__
+    _\ \/ _ \/ _ `/ __/  '_/
+   /__ / .__/\_,_/_/ /_/\_\   version 3.1.1
+      /_/
+
+Using Python version 3.7.10 (default, Mar  2 2021 09:06:08)
+Spark context Web UI available at http://spark-master:4040
+Spark context available as 'sc' (master = spark://spark-master:7077, app id = app-20250714171545-0000).
+SparkSession available as 'spark'.
+>>> df = spark.read.csv("/home/root/cars.csv", header=True, inferSchema=True)
+
+>>> df.show()          # any action will do                                     
++----+---------+------------+----------+------+------------+-----+------+--------------------+
+| mpg|cylinders|displacement|horsepower|weight|acceleration|model|origin|            car_name|
++----+---------+------------+----------+------+------------+-----+------+--------------------+
+|18.0|        8|       307.0|     130.0|3504.0|        12.0|   70|     1|chevrolet chevell...|
+|15.0|        8|       350.0|     165.0|3693.0|        11.5|   70|     1|   buick skylark 320|
+|18.0|        8|       318.0|     150.0|3436.0|        11.0|   70|     1|  plymouth satellite|
+|16.0|        8|       304.0|     150.0|3433.0|        12.0|   70|     1|       amc rebel sst|
+|17.0|        8|       302.0|     140.0|3449.0|        10.5|   70|     1|         ford torino|
+|15.0|        8|       429.0|     198.0|4341.0|        10.0|   70|     1|    ford galaxie 500|
+|14.0|        8|       454.0|     220.0|4354.0|         9.0|   70|     1|    chevrolet impala|
+|14.0|        8|       440.0|     215.0|4312.0|         8.5|   70|     1|   plymouth fury iii|
+|14.0|        8|       455.0|     225.0|4425.0|        10.0|   70|     1|    pontiac catalina|
+|15.0|        8|       390.0|     190.0|3850.0|         8.5|   70|     1|  amc ambassador dpl|
+|15.0|        8|       383.0|     170.0|3563.0|        10.0|   70|     1| dodge challenger se|
+|14.0|        8|       340.0|     160.0|3609.0|         8.0|   70|     1|  plymouth 'cuda 340|
+|15.0|        8|       400.0|     150.0|3761.0|         9.5|   70|     1|chevrolet monte c...|
+|14.0|        8|       455.0|     225.0|3086.0|        10.0|   70|     1|buick estate wago...|
+|24.0|        4|       113.0|     95.00|2372.0|        15.0|   70|     3|toyota corona mar...|
+|22.0|        6|       198.0|     95.00|2833.0|        15.5|   70|     1|     plymouth duster|
+|18.0|        6|       199.0|     97.00|2774.0|        15.5|   70|     1|          amc hornet|
+|21.0|        6|       200.0|     85.00|2587.0|        16.0|   70|     1|       ford maverick|
+|27.0|        4|        97.0|     88.00|2130.0|        14.5|   70|     3|        datsun pl510|
+|26.0|        4|        97.0|     46.00|1835.0|        20.5|   70|     2|volkswagen 1131 d...|
++----+---------+------------+----------+------+------------+-----+------+--------------------+
+only showing top 20 rows
+
+>>> spark.range(10).show()
++---+
+| id|
++---+
+|  0|
+|  1|
+|  2|
+|  3|
+|  4|
+|  5|
+|  6|
+|  7|
+|  8|
+|  9|
++---+
+>>> # --- FIX the UDF ------------------------------------------------------------
+>>> from pyspark.sql.functions import udf
+>>> import time
+>>> 
+>>> @udf("string")
+... def engine(cylinders):
+...     time.sleep(0.2)                       # keep delay so the UI shows tasks
+...     eng = {4: "inline-four", 6: "V6", 8: "V8"}
+...     return eng.get(cylinders, "other")    # safe default for 3, 5, etc.
+... 
+>>> # --- RE‑RUN the query -------------------------------------------------------
+>>> df = df.withColumn("engine", engine("cylinders"))
+>>> 
+>>> dfg = df.groupby("cylinders")
+>>> dfa = dfg.agg({"mpg": "avg", "engine": "first"})
+>>> 
+>>> dfa.show(truncate=False)
+[Stage 6:>                                                          [Stage 6:>                                                          [Stage 7:>                                                                                                                              [Stage 11:>                                                       (0[Stage 11:==>                                                     (1[Stage 11:===========>                                            (4[Stage 11:==============>                                         (5[Stage 11:==============================>                         (1                                                                    [Stage 13:===>                                                   (6 [Stage 13:=====>                                                (11 [Stage 13:===========>                                          (22 [Stage 13:==============>                                       (27 [Stage 13:==================>                                   (34 [Stage 13:=======================>                              (44 [Stage 13:=========================>                            (48 [Stage 13:===============================>                      (58 [Stage 13:=====================================>                (70 [Stage 13:==========================================>           (79                                                                     [Stage 15:===========>                                           (16[Stage 15:======================>                                (31[Stage 15:=================================>                     (45[Stage 15:==========================================>            (58[Stage 15:===================================================>    (6                                                                    +---------+------------------+-------------+
+|cylinders|avg(mpg)          |first(engine)|
++---------+------------------+-------------+
+|6        |19.985714285714284|V6           |
+|3        |20.55             |other        |
+|5        |27.366666666666664|other        |
+|4        |29.28676470588236 |inline-four  |
+|8        |14.963106796116508|V8           |
++---------+------------------+-------------+
+
+>>> 

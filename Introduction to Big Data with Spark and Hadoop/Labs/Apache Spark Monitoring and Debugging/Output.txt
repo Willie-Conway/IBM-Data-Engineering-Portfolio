@@ -1,0 +1,39 @@
+theia@theiadocker-hirewillieco:/home/project$ chmod +x init_spark_cluster.sh
+theia@theiadocker-hirewillieco:/home/project$ ./init_spark_cluster.sh
+🔻 Stopping any running Docker containers...
+e43401829671
+c1adc0e7cfb4
+🧹 Removing old Spark containers (ignore 'No such container' errors)...
+spark-master
+Error response from daemon: No such container: spark-worker-1
+Error response from daemon: No such container: spark-worker-2
+🚀 Starting Spark Master container...
+Unable to find image 'bde2020/spark-master:3.1.1-hadoop3.2' locally
+3.1.1-hadoop3.2: Pulling from bde2020/spark-master
+396c31837116: Pull complete 
+0a2185b561bb: Pull complete 
+a4bf5c05668f: Pull complete 
+9ffb11a0df85: Pull complete 
+0436623b0fbf: Pull complete 
+2ba16369776d: Pull complete 
+Digest: sha256:3769ac0403b86d42e6158fdaf23a01759f87188e968408e0c77b4a6bcc26d3ff
+Status: Downloaded newer image for bde2020/spark-master:3.1.1-hadoop3.2
+a66e254d44179d612cb4733895a79e99c958d08ab22fd76ae7f57d3054177912
+✅ Spark Master started at http://localhost:8080
+🔧 Starting Spark Worker container...
+Unable to find image 'bde2020/spark-worker:3.1.1-hadoop3.2' locally
+3.1.1-hadoop3.2: Pulling from bde2020/spark-worker
+396c31837116: Already exists 
+0a2185b561bb: Already exists 
+a4bf5c05668f: Already exists 
+9ffb11a0df85: Already exists 
+0436623b0fbf: Already exists 
+b75614286e6e: Pull complete 
+Digest: sha256:68ecd0ba8766bcdf32607e6ac04a330b799fd3d63749456d3fba6ab4d0d96d46
+Status: Downloaded newer image for bde2020/spark-worker:3.1.1-hadoop3.2
+f89143dfeae74ad43556ea631b2439fec73f5894e5f7197aedacf34e8cf30e69
+✅ Spark Worker connected to Spark Master
+🌐 Web UIs:
+- Spark Master UI: http://localhost:8080
+- Spark Worker UI: http://localhost:8081
+theia@theiadocker-hirewillieco:/home/project$
