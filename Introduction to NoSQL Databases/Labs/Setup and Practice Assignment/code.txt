@@ -1,0 +1,42 @@
+theia@theiadocker-hirewillieco:/home/project$ sudo npm install -g couchimport@1.4.0
+npm warn deprecated har-validator@5.1.5: this library is no longer supported
+npm warn deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm warn deprecated debug@4.1.1: Debug versions >=3.2.0 <3.2.7 || >=4 <4.3.1 have a low-severity ReDos regression when used in a Node.js environment. It is recommended you upgrade to 3.2.7 or 4.3.1. (https://github.com/visionmedia/debug/issues/797)
+npm warn deprecated cloudant-follow@0.18.2: This package is no longer maintained.
+npm warn deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+
+added 108 packages in 5s
+
+9 packages are looking for funding
+  run `npm fund` for details
+npm notice
+npm notice New major version of npm available! 10.8.2 -> 11.6.2
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.6.2
+npm notice To update run: npm install -g npm@11.6.2
+npm notice
+theia@theiadocker-hirewillieco:/home/project$ couchimport --version
+1.4.0
+theia@theiadocker-hirewillieco:/home/project$ wget https://fastdl.mongodb.org/tools/db/mongodb-database-tools-ubuntu1804-x86_64-100.3.1.tgz
+tar -xf mongodb-database-tools-ubuntu1804-x86_64-100.3.1.tgz
+export PATH=$PATH:/home/project/mongodb-database-tools-ubuntu1804-x86_64-100.3.1/bin
+echo "done"
+--2025-10-19 22:03:17--  https://fastdl.mongodb.org/tools/db/mongodb-database-tools-ubuntu1804-x86_64-100.3.1.tgz
+Resolving fastdl.mongodb.org (fastdl.mongodb.org)... 13.32.205.16, 13.32.205.41, 13.32.205.5, ...
+Connecting to fastdl.mongodb.org (fastdl.mongodb.org)|13.32.205.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64021650 (61M) [binary/octet-stream]
+Saving to: 'mongodb-database-tools-ubuntu1804-x86_64-100.3.1.tgz'
+
+mongodb-database-to 100%[==================>]  61.06M  30.1MB/s    in 2.0s    
+
+2025-10-19 22:03:19 (30.1 MB/s) - 'mongodb-database-tools-ubuntu1804-x86_64-100.3.1.tgz' saved [64021650/64021650]
+
+done
+theia@theiadocker-hirewillieco:/home/project$ mongoimport --version
+mongoimport version: 100.13.0
+git version: 23008ff975be028544710a5da6ae749dc7e90ab7
+Go version: go1.23.11
+   os: linux
+   arch: amd64
+   compiler: gc
+theia@theiadocker-hirewillieco:/home/project$ 
