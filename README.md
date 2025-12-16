@@ -9,6 +9,23 @@
 Welcome to my comprehensive portfolio documenting the completion of the **IBM Data Engineering Professional Certificate**! This repository showcases hands-on projects, labs, and assignments covering the full spectrum of data engineering concepts and tools.
 
 
+<p float="left">
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-1.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-2.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-3.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-4.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-5.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-6.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-7.jpg" width="300" />
+</p>
+
+<p float="left">
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Loyalty_%26_Sales_Performance_Dashboard.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Community_Property_Revenue_%26_Loyalty_Sales_Dashboard-1.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Community_Property_Revenue_%26_Loyalty_Sales_Dashboard-2.jpg" width="300" />
+</p>
+
+
 
 ## 🏆 Professional Certificate Details
 
