@@ -2,7 +2,7 @@
 
 ![IBM Data Engineering](https://images.credly.com/size/680x680/images/31a24eb9-5fb6-4d3b-b2be-c286c3cc3489/Coursera_20Data_20Engineering_20Professional_20Cert_20V3.png)
 
-![GitHub](https://img.shields.io/badge/IBM-Data%20Engineering-orange) ![GitHub](https://img.shields.io/badge/Status-In%20Progress-blue) ![GitHub](https://img.shields.io/badge/Projects-15+-brightgreen)
+![GitHub](https://img.shields.io/badge/IBM-Data%20Engineering-orange) ![GitHub](https://img.shields.io/badge/Status-%20Completed-blue) ![GitHub](https://img.shields.io/badge/Projects-15+-brightgreen)
 
 ## 🎯 Overview
 
