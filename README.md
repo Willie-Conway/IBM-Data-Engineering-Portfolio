@@ -242,7 +242,7 @@ IBM-Data-Engineering-Portfolio/
 - **Machine learning integration** in data pipelines
 - **Business intelligence** and data visualization
 
-## 🤝 **Contributing**
+## 🤝🏿 **Contributing**
 
 This portfolio is a personal showcase of my learning journey through the IBM Data Engineering Professional Certificate. While contributions aren't expected, feedback and suggestions are welcome!
 
