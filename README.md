@@ -101,32 +101,32 @@ Welcome to my comprehensive portfolio documenting the completion of the **IBM Da
      - Web scraping and API data extraction
 
 ### 10. 🐧 **Hands-on Introduction to Linux Commands and Shell Scripting**
-    - **Topics Covered**: Linux administration, shell scripting, cron jobs, system monitoring
-    - **Key Projects**:
-      - Advanced Bash scripting
-      - System automation
-      - File management and archiving
+   - **Topics Covered**: Linux administration, shell scripting, cron jobs, system monitoring
+   - **Key Projects**:
+    - Advanced Bash scripting
+    - System automation
+    - File management and archiving
 
 ### 11. 🎛️ **Relational Database Administration (DBA)**
-    - **Topics Covered**: Database optimization, backup/restore, user management, monitoring
-    - **Key Projects**:
-      - Performance tuning of slow queries
-      - Automated backup systems
-      - Database security and access control
+  - **Topics Covered**: Database optimization, backup/restore, user management, monitoring
+  - **Key Projects**:
+    - Performance tuning of slow queries
+    - Automated backup systems
+    - Database security and access control
 
 ### 12. 📱 **BI Dashboards with IBM Cognos Analytics and Google Looker**
-    - **Topics Covered**: Data visualization, dashboard creation, business intelligence
-    - **Key Projects**:
-      - Interactive dashboards with Cognos Analytics
-      - Advanced visualizations with Google Looker Studio
-      - Real-world business analytics
+  - **Topics Covered**: Data visualization, dashboard creation, business intelligence
+  - **Key Projects**:
+    - Interactive dashboards with Cognos Analytics
+    - Advanced visualizations with Google Looker Studio
+    - Real-world business analytics
 
 ### 13. 🎓 **Data Engineering Career Guide and Interview Preparation**
-    - **Topics Covered**: Resume building, interview preparation, career planning
-    - **Key Assets**:
-      - Professional resume templates
-      - Cover letter samples
-      - Interview preparation materials
+  - **Topics Covered**: Resume building, interview preparation, career planning
+  - **Key Assets**:
+    - Professional resume templates
+    - Cover letter samples
+    - Interview preparation materials
 
 ## 🛠️ **Technical Skills Demonstrated**
 
