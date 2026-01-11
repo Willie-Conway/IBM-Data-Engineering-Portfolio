@@ -17,6 +17,7 @@ Welcome to my comprehensive portfolio documenting the completion of the **IBM Da
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-5.jpg" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-6.jpg" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-7.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/2277ddbcf52f29b8e205cd03474ece70c78ddcd7/ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Labs/Monitoring%20a%20DAG/Screenshots/Pause_Unpause%20a%20DAG.jpg" width="300" />
 </p>
 
 <p float="left">
