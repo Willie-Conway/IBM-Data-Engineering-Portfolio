@@ -23,6 +23,9 @@ Welcome to my comprehensive portfolio documenting the completion of the **IBM Da
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Loyalty_%26_Sales_Performance_Dashboard.jpg" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Community_Property_Revenue_%26_Loyalty_Sales_Dashboard-1.jpg" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Community_Property_Revenue_%26_Loyalty_Sales_Dashboard-2.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/fc192e10dab316af3dc431c1dcd918b06b6e9f01/ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Labs/Build%20a%20Streaming%20ETL%20Pipeline%20using%20Kafka/Screenshots/streaming_data_reader.gif" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/fc192e10dab316af3dc431c1dcd918b06b6e9f01/ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Labs/Build%20a%20Streaming%20ETL%20Pipeline%20using%20Kafka/Screenshots/toll_traffic_generator.gif" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/fc192e10dab316af3dc431c1dcd918b06b6e9f01/ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Labs/Monitoring%20a%20DAG/Screenshots/code.png" width="300" />
 </p>
 
 
