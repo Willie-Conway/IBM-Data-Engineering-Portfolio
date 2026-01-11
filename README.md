@@ -20,6 +20,8 @@ Welcome to my comprehensive portfolio documenting the completion of the **IBM Da
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-7.jpg" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/2277ddbcf52f29b8e205cd03474ece70c78ddcd7/ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Labs/Monitoring%20a%20DAG/Screenshots/Pause_Unpause%20a%20DAG.jpg" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/d49664089b0ef4a41716f728df0433502990fe70/ETL%20and%20Data%20Pipelines%20with%20Shell%2C%20Airflow%20and%20Kafka/Labs/Monitoring%20a%20DAG/Screenshots/Explore%20graph%20view%20of%20DAG.png" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/ca2220f82495ed4bf6c90e823254c9beac109c2d/Introduction%20to%20Big%20Data%20with%20Spark%20and%20Hadoop/Labs/Hadoop%20MapReduce/Screenshots/map_reduce_picture_rep.png" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/ca2220f82495ed4bf6c90e823254c9beac109c2d/Introduction%20to%20Big%20Data%20with%20Spark%20and%20Hadoop/Labs/Hadoop%20Cluster%20(Optional)/Screenshots/Hadoop%20Startup%20Progress.png" width="300" />
 </p>
 
 <p float="left">
