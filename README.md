@@ -11,6 +11,7 @@ Welcome to my comprehensive portfolio documenting the completion of the **IBM Da
 
 <p float="left">
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-1.jpg" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/80afa70583c8825f572c9fc43183d0a67be20989/BI%20Dashboards%20with%20IBM%20Cognos%20Analytics%20and%20Google%20Looker/Labs/Getting%20Started%20with%20Google%20Looker%20Studio/Screenshots/Loyalty%20%26%20Sales%20Performance%20Dashcoard.gif" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-2.jpg" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-3.jpg" width="300" />
     <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Capstone-Project/blob/8d4a22f5ea8c63e9393b3d86f024c4f72dfb03e2/Data%20Engineering%20Capstone%20Project/CheatSheet/Images/Simple_Dashboard-4.jpg" width="300" />
