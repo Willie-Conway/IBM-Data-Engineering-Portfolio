@@ -2,7 +2,7 @@
 
 ![IBM Data Engineering](https://images.credly.com/size/680x680/images/31a24eb9-5fb6-4d3b-b2be-c286c3cc3489/Coursera_20Data_20Engineering_20Professional_20Cert_20V3.png)
 
-![IBM Data Engineer](https://img.shields.io/badge/IBM-Data__Engineer-0072CE?style=for-the-badge&logo=ibm)
+![IBM Data Engineer](https://img.shields.io/badge/IBM-Data-Engineer-0072CE?style=for-the-badge&logo=ibm)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
