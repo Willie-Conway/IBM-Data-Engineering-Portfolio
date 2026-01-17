@@ -2,7 +2,7 @@
 
 <p float="left">
     <img src="https://images.credly.com/size/680x680/images/31a24eb9-5fb6-4d3b-b2be-c286c3cc3489/Coursera_20Data_20Engineering_20Professional_20Cert_20V3.png" width="300" />
-    <img src="" width="300" />
+    <img src="https://github.com/Willie-Conway/IBM-Data-Engineering-Portfolio/blob/62938e466cf3564c131b5bfcc52c51d54d6c2c52/Image/IBM-Data-Engineering.jpg" width="300" />
 </p>
 
 <!-- ![IBM Data Engineering](https://images.credly.com/size/680x680/images/31a24eb9-5fb6-4d3b-b2be-c286c3cc3489/Coursera_20Data_20Engineering_20Professional_20Cert_20V3.png)-->
