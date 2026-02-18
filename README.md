@@ -159,6 +159,7 @@ Welcome to my comprehensive portfolio documenting the completion of the **IBM Da
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
 
 ### **BI & Visualization**
 ![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
